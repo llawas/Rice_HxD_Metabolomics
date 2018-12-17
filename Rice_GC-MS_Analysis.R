@@ -19,7 +19,7 @@ source('H:/LMFLawas/PhD/Experiments/Protocols/R script/func_replace_outlier.R')
 source('H:/LMFLawas/PhD/Experiments/Protocols/R script/func_hist_outlier.R')
 source("H:/LMFLawas/PhD/Experiments/Protocols/R script/func_log_transform.R")
 source("H:/LMFLawas/PhD/Experiments/Protocols/R script/func_log2_median_transform.R")
-
+#codes of the functions indicated in source() above are given within the script
 
 #NOTE: early stress means mild stress; late stress means severe stress
 
@@ -97,7 +97,58 @@ sample_data_combined_20131415 = t(sample_data_combined_20131415)
 #sample batch ID as rownames
 rownames(sample_data_combined_20131415) = sample_list_20131415$Batch.ID
 
-source("H:/LMFLawas/PhD/Experiments/Protocols/R script/func_log_transform.R")
+
+#===============================================================================
+# Name        : Log-Median-Transformation
+# Description : Calculate the median metabolite level for metabolite (over all samples) and
+#               calculate log10-ratio this value from the respective metabolite levels in all samples
+# Author      : Heike Sprenger
+# Date        : 2014-07-15
+# Version     : 0.1
+#===============================================================================
+
+
+# input matrix with samples in columns and analytes in rows
+
+func_log_transform <- function(samples) {
+    
+  median_samples <- apply(samples, 1, median, na.rm=TRUE) # calculate median rowwise --> per analyte over all samples
+  
+  transformed <- data.frame(matrix(rep(NA, nrow(samples)*ncol(samples)), nrow=nrow(samples)))
+  
+  for (i  in 1:length(samples[1,])) {
+    for (j in 1:length(samples[ ,1])) {
+      transformed[j,i] <- log10(samples[j,i]/median_samples[j]) # calculate log10 of ratio of value/median
+    }
+  }
+  colnames(transformed) <- colnames(samples)
+  rownames(transformed) <- rownames(samples)
+  return(transformed)
+}
+
+
+# input matrix with samples in rows and analytes in columns
+
+func_log_transform_2 <- function(samples) {
+  
+  samples <- t(samples)
+  
+  median_samples <- apply(samples, 1, median, na.rm=TRUE) # calculate median rowwise --> per analyte over all samples
+  
+  transformed <- data.frame(matrix(rep(NA, nrow(samples)*ncol(samples)), nrow=nrow(samples)))
+  
+  for (i  in 1:length(samples[1,])) {
+    for (j in 1:length(samples[ ,1])) {
+      transformed[j,i] <- log10(samples[j,i]/median_samples[j]) # calculate log10 of ratio of value/median
+    }
+  }
+  colnames(transformed) <- colnames(samples)
+  rownames(transformed) <- rownames(samples)
+  
+  transformed <- t(transformed)
+  return(transformed)
+}
+
 
 #log10-median transformation
 data_log10_median_transformed = func_log_transform_2(sample_data_combined_20131415)
@@ -300,7 +351,7 @@ metabolite_list_flag_leaf_2014 = subset_profile_flag_leaf_HxD_2014_filtered[ , c
 #2015
 subset_profile_flag_leaf_HxD_2015 = read.table("subset_profile_flag_leaf_2015.txt", sep = "\t", header = T, quote = "")   #load data - 230 metabolites, 210 samples
 subset_profile_flag_leaf_HxD_2015$Percent_NA = (rowSums(is.na(subset_profile_flag_leaf_HxD_2015))/(ncol(subset_profile_flag_leaf_HxD_2015)-3))*100    #calculate %NA per metabolite
-subset_profile_flag_leaf_HxD_2015_filtered = subset_profile_flag_leaf_HxD_2015[which(subset_profile_flag_leaf_HxD_2015$Percent_NA < 66.67), ]    #only metabolites with < 66.67% NA - 2ß17 metabolites
+subset_profile_flag_leaf_HxD_2015_filtered = subset_profile_flag_leaf_HxD_2015[which(subset_profile_flag_leaf_HxD_2015$Percent_NA < 66.67), ]    #only metabolites with < 66.67% NA - 2ÃŸ17 metabolites
 sample_list_data_flag_leaf_2015 = subset_profile_flag_leaf_HxD_2015_filtered[ , -c(1, 2, 3, ncol(subset_profile_flag_leaf_HxD_2015_filtered))]   #filtered data set - data values only
 metabolite_list_flag_leaf_2015 = subset_profile_flag_leaf_HxD_2015_filtered[ , c(1, 2, 3)]
 

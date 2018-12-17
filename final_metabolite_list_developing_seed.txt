@@ -1,0 +1,68 @@
+Class	Name	MPIMP.ID
+3	Acids	Benzoic acid, 4-hydroxy-	A164003-101
+5	Acids	Citric acid	A182004-101
+8	Acids	Glutaric acid, 2-oxo-	A158004-101
+13	Acids	Isocitric acid	A182003-101
+15	Acids	Malic acid	A149001-101
+21	Acids	Pyruvic acid	A104002-101
+26	Acids	Succinic acid	A134001-101
+27	Acids	Vanillic acid	A178004-101
+30	Amino Acids	Alanine, 3-cyano-	A138005-101
+33	Amino Acids	Aspartic acid	A152002-101
+38	Amino Acids	Glutamic acid	A163001-101
+39	Amino Acids	Glutamine	A178001-101
+40	Amino Acids	Glycine	A133001-101
+41	Amino Acids	Isoleucine	A132002-101
+42	Amino Acids	Leucine	A118001-101
+44	Amino Acids	N-Carboxyglycine	A147006-101
+45	Amino Acids	Phenylalanine	A164001-101
+48	Amino Acids	Serine	A138001-101
+49	Amino Acids	Threonine	A140001-101
+52	Amino Acids	Valine	A122001-101
+54	Fatty Acids	Hexadecanoic acid	A205001-101
+55	Fatty Acids	Octadecanoic acid	A225002-101
+58	MSTs	A112003	A112003-101
+61	MSTs	A116014	A116014-101
+70	MSTs	A143003	A143003-101
+74	MSTs	A145016	A145016-101
+75	MSTs	A147011	A147011-101
+77	MSTs	A155004	A155004-101
+80	MSTs	A159003	A159003-101
+85	MSTs	A170001	A170001-101
+87	MSTs	A174001	A174001-101
+90	MSTs	A176001	A176001-101
+103	MSTs	A203003	A203003-101
+108	MSTs	A211001	A211001-101
+109	MSTs	A213001	A213001-101
+116	MSTs	A228001	A228001-101
+118	MSTs	A237001	A237001-101
+119	MSTs	A237002	A237002-101
+121	MSTs	A250001	A250001-101
+137	MSTs	A311002	A311002-101
+148	N- Compounds	Putrescine	A175002-101
+149	N- Compounds	Pyridine, 2-hydroxy-	A105003-101
+150	N- Compounds	Pyridine, 3-hydroxy-	A114003-101
+171	Phosphates	Glucose-6-phosphate	A233002-101
+173	Phosphates	Glyceric acid-3-phosphate	A181003-101
+174	Phosphates	Glycerol-3-phosphate	A177002-101
+175	Phosphates	Glycerophosphoglycerol	A218002-101
+176	Phosphates	Inositol-phosphate, myo-	A243001-101
+179	Phosphates	Phosphoric acid	A129001-101
+180	Phosphates	Phosphoric acid monomethyl ester	A119001-101
+186	Polyhydroxy Acids	Erythronic acid	A154001-101
+187	Polyhydroxy Acids	Galactaric acid	A204001-101
+189	Polyhydroxy Acids	Gluconic acid	A200001-101
+192	Polyhydroxy Acids	Threonic acid	A156001-101
+194	Polyols	Arabitol	A171012-101
+195	Polyols	Erythritol	A150002-101
+197	Polyols	Glycerol	A129003-101
+198	Polyols	Hydroquinone	A140012-101
+199	Polyols	Inositol, myo-	A209002-101
+201	Polyols	Ribitol	A173001-101
+205	Sugar Conjugates	4-Hydroxyphenyl-beta-glucopyranoside	A258002-101
+209	Sugars	Arabinose	A167002-101
+210	Sugars	Fructose	A187002-101
+211	Sugars	Glucose	A189002-101
+213	Sugars	Kestose, 1-	A340003-101
+216	Sugars	Raffinose	A337002-101
+220	Sugars	Sucrose	A264001-101

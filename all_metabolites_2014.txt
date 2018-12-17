@@ -1,0 +1,145 @@
+Year	Class	Name	MPIMP-ID
+2014	Acids	4-Hydroxybenzaldehyde	A150014-101
+2014	Acids	Aconitic acid, cis-	A176002-101
+2014	Acids	Azelaic acid	A181007-101
+2014	Acids	Benzoic acid, 4-hydroxy-	A164003-101
+2014	Acids	Citric acid	A182004-101
+2014	Acids	Glutaric acid, 2-oxo-	A158004-101
+2014	Acids	Glycolic acid	A106002-101
+2014	Acids	Isocitric acid	A182003-101
+2014	Acids	Itaconic acid	A135004-101
+2014	Acids	Malic acid	A149001-101
+2014	Acids	Malic acid, 2-methyl-	A148001-101
+2014	Acids	Malic acid, 1-methylester	A139020-101
+2014	Acids	Oxalic acid	A113002-101
+2014	Acids	Pyruvic acid	A104002-101
+2014	Acids	Quinic acid	A185001-101
+2014	Acids	Salicylic acid	A152003-101
+2014	Acids	Succinic acid	A134001-101
+2014	Acids	Succinic semialdehyde	A117007-101
+2014	Acids	Valeric acid, 2-oxo-	A113006-101
+2014	Acids	Vanillic acid	A178004-101
+2014	Alcohols	Coniferylalcohol, trans-	A194005-101
+2014	Amino Acids	Alanine, 3-cyano-	A138005-101
+2014	Amino Acids	Asparagine	A161004-101
+2014	Amino Acids	Aspartic acid	A152002-101
+2014	Amino Acids	Butanoic acid, 2-amino-	A117002-101
+2014	Amino Acids	Butanoic acid, 4-amino-	A153003-101
+2014	Amino Acids	Butyro-1,4-lactam	A114004-101
+2014	Amino Acids	Caproic acid, 6-amino-	A174006-101
+2014	Amino Acids	Glutamic acid	A163001-101
+2014	Amino Acids	Glutamine	A178001-101
+2014	Amino Acids	Glycine	A133001-101
+2014	Amino Acids	Isoleucine	A132002-101
+2014	Amino Acids	Leucine	A118001-101
+2014	Amino Acids	Lysine	A192003-101
+2014	Amino Acids	N-Carboxyglycine	A147006-101
+2014	Amino Acids	Ornithine	A162001-101
+2014	Amino Acids	Phenylalanine	A164001-101
+2014	Amino Acids	Proline	A132003-101
+2014	Amino Acids	Serine	A138001-101
+2014	Amino Acids	Serine, O-acetyl-	A141001-101
+2014	Amino Acids	Threonine	A140001-101
+2014	Amino Acids	Tyrosine	A194002-101
+2014	Amino Acids	Valine	A122001-101
+2014	Fatty Acids	Hexadecanoic acid	A205001-101
+2014	Fatty Acids	Octadecanoic acid	A225002-101
+2014	MSTs	A104005-101	A104005-101
+2014	MSTs	A106004-101	A106004-101
+2014	MSTs	A112003-101	A112003-101
+2014	MSTs	A116014-101	A116014-101
+2014	MSTs	A124002-101	A124002-101
+2014	MSTs	A124006-101	A124006-101
+2014	MSTs	A137012-101	A137012-101
+2014	MSTs	A139005-101	A139005-101
+2014	MSTs	A140006-101	A140006-101
+2014	MSTs	A142016-101	A142016-101
+2014	MSTs	A143003-101	A143003-101
+2014	MSTs	A144007-101	A144007-101
+2014	MSTs	A145008-101	A145008-101
+2014	MSTs	A145016-101	A145016-101
+2014	MSTs	A147005-101	A147005-101
+2014	MSTs	A147011-101	A147011-101
+2014	MSTs	A148006-101	A148006-101
+2014	MSTs	A155004-101	A155004-101
+2014	MSTs	A157012-101	A157012-101
+2014	MSTs	A159002-101	A159002-101
+2014	MSTs	A159003-101	A159003-101
+2014	MSTs	A160018-101	A160018-101
+2014	MSTs	A170001-101	A170001-101
+2014	MSTs	A171003-101	A171003-101
+2014	MSTs	A174001-101	A174001-101
+2014	MSTs	A175008-101	A175008-101
+2014	MSTs	A176001-101	A176001-101
+2014	MSTs	A180002-101	A180002-101
+2014	MSTs	A181004-101	A181004-101
+2014	MSTs	A182009-101	A182009-101
+2014	MSTs	A192014-101	A192014-101
+2014	MSTs	A196004-101	A196004-101
+2014	MSTs	A197003-101	A197003-101
+2014	MSTs	A201002-101	A201002-101
+2014	MSTs	A203003-101	A203003-101
+2014	MSTs	A203004-101	A203004-101
+2014	MSTs	A211001-101	A211001-101
+2014	MSTs	A213001-101	A213001-101
+2014	MSTs	A214003-101	A214003-101
+2014	MSTs	A214004-101	A214004-101
+2014	MSTs	A217004-101	A217004-101
+2014	MSTs	A221004-101	A221004-101
+2014	MSTs	A228001-101	A228001-101
+2014	MSTs	A230002-101	A230002-101
+2014	MSTs	A237001-101	A237001-101
+2014	MSTs	A237002-101	A237002-101
+2014	MSTs	A250001-101	A250001-101
+2014	MSTs	A278005-101	A278005-101
+2014	MSTs	A303004-101	A303004-101
+2014	MSTs	A311002-101	A311002-101
+2014	N- Compounds	Cytosine	A153005-101
+2014	N- Compounds	Ethanolamine	A128002-101
+2014	N- Compounds	Putrescine	A175002-101
+2014	N- Compounds	Pyridine, 2-hydroxy-	A105003-101
+2014	N- Compounds	Pyridine, 3-hydroxy-	A114003-101
+2014	N- Compounds	Pyridine, 4-hydroxy-	A117003-101
+2014	N- Compounds	Spermidine	A226002-101
+2014	N- Compounds	Uracil	A136001-101
+2014	Phenylpropanoids	Cinnamic acid, 4-hydroxy-, trans-	A195001-101
+2014	Phenylpropanoids	Quinic acid, 4-caffeoyl-, trans-	A317001-101
+2014	Phenylpropanoids	Quinic acid, 5-caffeoyl-, trans-	A319001-101
+2014	Phenylpropanoids	Sinapic acid, trans-	A225001-101
+2014	Phosphates	Ethanolaminephosphate	A177014-101
+2014	Phosphates	Glucose-6-phosphate	A233002-101
+2014	Phosphates	Glyceric acid-2-phosphate	A179005-101
+2014	Phosphates	Glyceric acid-3-phosphate	A181003-101
+2014	Phosphates	Glycerol-3-phosphate	A177002-101
+2014	Phosphates	Glycerophosphoglycerol	A218002-101
+2014	Phosphates	Inositol-phosphate, myo-	A243001-101
+2014	Phosphates	Phosphoenolpyruvic acid	A159005-101
+2014	Phosphates	Phosphoric acid	A129001-101
+2014	Phosphates	Phosphoric acid monomethyl ester	A119001-101
+2014	Polyhydroxy Acids	Arabinonic acid	A179001-101
+2014	Polyhydroxy Acids	Ascorbic acid	A195002-101
+2014	Polyhydroxy Acids	Dehydroascorbic acid dimer	A185002-101
+2014	Polyhydroxy Acids	Erythronic acid	A154001-101
+2014	Polyhydroxy Acids	Galactaric acid	A204001-101
+2014	Polyhydroxy Acids	Galactonic acid	A199002-101
+2014	Polyhydroxy Acids	Gluconic acid	A200001-101
+2014	Polyhydroxy Acids	Glyceric acid	A135003-101
+2014	Polyhydroxy Acids	Saccharic acid	A201001-101
+2014	Polyhydroxy Acids	Threonic acid	A156001-101
+2014	Polyols	2,3-Butanediol	A069001-101
+2014	Polyols	Arabitol	A171012-101
+2014	Polyols	Erythritol	A150002-101
+2014	Polyols	Glycerol	A129003-101
+2014	Polyols	Hydroquinone	A140012-101
+2014	Polyols	Inositol, myo-	A209002-101
+2014	Polyols	Ribitol	A173001-101
+2014	Polyols	Xylitol	A171001-101
+2014	Sugar Conjugates	4-Hydroxyphenyl-beta-glucopyranoside	A258002-101
+2014	Sugar Conjugates	Galactinol	A299002-101
+2014	Sugars	Arabinose	A167002-101
+2014	Sugars	Fructose	A188004-101
+2014	Sugars	Glucose	A189002-101
+2014	Sugars	Kestose, 1-	A340003-101
+2014	Sugars	Raffinose	A337002-101
+2014	Sugars	Sucrose	A264001-101
+2014	Sugars	Trehalose, alpha,alpha'-	A274002-101

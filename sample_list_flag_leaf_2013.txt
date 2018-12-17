@@ -1,0 +1,208 @@
+ID	Treatment	Timepoint	Cultivar	Description	Code	Batch	Sequence
+14054if_38	Control	FL	N22	Leaf_N22 Control FL_End of stress	FNC	14054if	38
+14061if_27	Control	FL	N22	Leaf_N22 Control FL_End of stress	FNC	14061if	27
+14069if_20	Control	FL	N22	Leaf_N22 Control FL_End of stress	FNC	14069if	20
+14079if_60	Control	FL	N22	Leaf_N22 Control FL_End of stress	FNC	14079if	60
+14088if_45	Control	FL	N22	Leaf_N22 Control FL_End of stress	FNC	14088if	45
+14054if_31	Heat & drought	FL Early stress	N22	Leaf_N22 Heat & drought EGF_00d_Start of stress	FNES	14054if	31
+14061if_20	Heat & drought	FL Early stress	N22	Leaf_N22 Heat & drought EGF_00d_Start of stress	FNES	14061if	20
+14069if_13	Heat & drought	FL Early stress	N22	Leaf_N22 Heat & drought EGF_00d_Start of stress	FNES	14069if	13
+14079if_53	Heat & drought	FL Early stress	N22	Leaf_N22 Heat & drought EGF_00d_Start of stress	FNES	14079if	53
+14088if_38	Heat & drought	FL Early stress	N22	Leaf_N22 Heat & drought EGF_00d_Start of stress	FNES	14088if	38
+14054if_9	Heat & drought	FL Late stress	N22	Leaf_N22 Heat & drought FL_End of stress	FNLS	14054if	9
+14057if_47	Heat & drought	FL Late stress	N22	Leaf_N22 Heat & drought FL_End of stress	FNLS	14057if	47
+14064if_40	Heat & drought	FL Late stress	N22	Leaf_N22 Heat & drought FL_End of stress	FNLS	14064if	40
+14079if_31	Heat & drought	FL Late stress	N22	Leaf_N22 Heat & drought FL_End of stress	FNLS	14079if	31
+14088if_16	Heat & drought	FL Late stress	N22	Leaf_N22 Heat & drought FL_End of stress	FNLS	14088if	16
+14050if_35	Heat & drought	FL 12h Rewatering	N22	Leaf_N22 Heat & drought FL Rewatering 12h	FNR12	14050if	35
+14057if_20	Heat & drought	FL 12h Rewatering	N22	Leaf_N22 Heat & drought FL Rewatering 12h	FNR12	14057if	20
+14064if_13	Heat & drought	FL 12h Rewatering	N22	Leaf_N22 Heat & drought FL Rewatering 12h	FNR12	14064if	13
+14069if_54	Heat & drought	FL 12h Rewatering	N22	Leaf_N22 Heat & drought FL Rewatering 12h	FNR12	14069if	54
+14084if_39	Heat & drought	FL 12h Rewatering	N22	Leaf_N22 Heat & drought FL Rewatering 12h	FNR12	14084if	39
+14050if_38	Heat & drought	FL 36h Rewatering	N22	Leaf_N22 Heat & drought FL Rewatering 36h	FNR36	14050if	38
+14057if_23	Heat & drought	FL 36h Rewatering	N22	Leaf_N22 Heat & drought FL Rewatering 36h	FNR36	14057if	23
+14064if_16	Heat & drought	FL 36h Rewatering	N22	Leaf_N22 Heat & drought FL Rewatering 36h	FNR36	14064if	16
+14069if_57	Heat & drought	FL 36h Rewatering	N22	Leaf_N22 Heat & drought FL Rewatering 36h	FNR36	14069if	57
+14084if_42	Heat & drought	FL 36h Rewatering	N22	Leaf_N22 Heat & drought FL Rewatering 36h	FNR36	14084if	42
+14054if_46	Heat & drought	FL 60h Rewatering	N22	Leaf_N22 Heat & drought FL Rewatering 60h	FNR60	14054if	46
+14061if_35	Heat & drought	FL 60h Rewatering	N22	Leaf_N22 Heat & drought FL Rewatering 60h	FNR60	14061if	35
+14069if_28	Heat & drought	FL 60h Rewatering	N22	Leaf_N22 Heat & drought FL Rewatering 60h	FNR60	14069if	28
+14084if_14	Heat & drought	FL 60h Rewatering	N22	Leaf_N22 Heat & drought FL Rewatering 60h	FNR60	14084if	14
+14088if_53	Heat & drought	FL 60h Rewatering	N22	Leaf_N22 Heat & drought FL Rewatering 60h	FNR60	14088if	53
+14050if_31	Control	FL	Dular	Leaf_Dular Control FL_End of stress	FDC	14050if	31
+14057if_16	Control	FL	Dular	Leaf_Dular Control FL_End of stress	FDC	14057if	16
+14064if_9	Control	FL	Dular	Leaf_Dular Control FL_End of stress	FDC	14064if	9
+14069if_50	Control	FL	Dular	Leaf_Dular Control FL_End of stress	FDC	14069if	50
+14084if_35	Control	FL	Dular	Leaf_Dular Control FL_End of stress	FDC	14084if	35
+14050if_24	Heat & drought	FL Early stress	Dular	Leaf_Dular Heat & drought EGF_00d_Start of stress	FDES	14050if	24
+14057if_9	Heat & drought	FL Early stress	Dular	Leaf_Dular Heat & drought EGF_00d_Start of stress	FDES	14057if	9
+14061if_50	Heat & drought	FL Early stress	Dular	Leaf_Dular Heat & drought EGF_00d_Start of stress	FDES	14061if	50
+14069if_43	Heat & drought	FL Early stress	Dular	Leaf_Dular Heat & drought EGF_00d_Start of stress	FDES	14069if	43
+14084if_28	Heat & drought	FL Early stress	Dular	Leaf_Dular Heat & drought EGF_00d_Start of stress	FDES	14084if	28
+14054if_39	Heat & drought	FL Late stress	Dular	Leaf_Dular Heat & drought FL_End of stress	FDLS	14054if	39
+14061if_28	Heat & drought	FL Late stress	Dular	Leaf_Dular Heat & drought FL_End of stress	FDLS	14061if	28
+14069if_21	Heat & drought	FL Late stress	Dular	Leaf_Dular Heat & drought FL_End of stress	FDLS	14069if	21
+14084if_7	Heat & drought	FL Late stress	Dular	Leaf_Dular Heat & drought FL_End of stress	FDLS	14084if	7
+14088if_46	Heat & drought	FL Late stress	Dular	Leaf_Dular Heat & drought FL_End of stress	FDLS	14088if	46
+14054if_12	Heat & drought	FL 12h Rewatering	Dular	Leaf_Dular Heat & drought FL Rewatering 12h	FDR12	14054if	12
+14057if_50	Heat & drought	FL 12h Rewatering	Dular	Leaf_Dular Heat & drought FL Rewatering 12h	FDR12	14057if	50
+14064if_43	Heat & drought	FL 12h Rewatering	Dular	Leaf_Dular Heat & drought FL Rewatering 12h	FDR12	14064if	43
+14079if_34	Heat & drought	FL 12h Rewatering	Dular	Leaf_Dular Heat & drought FL Rewatering 12h	FDR12	14079if	34
+14088if_19	Heat & drought	FL 12h Rewatering	Dular	Leaf_Dular Heat & drought FL Rewatering 12h	FDR12	14088if	19
+14054if_15	Heat & drought	FL 36h Rewatering	Dular	Leaf_Dular Heat & drought FL Rewatering 36h	FDR36	14054if	15
+14057if_53	Heat & drought	FL 36h Rewatering	Dular	Leaf_Dular Heat & drought FL Rewatering 36h	FDR36	14057if	53
+14064if_46	Heat & drought	FL 36h Rewatering	Dular	Leaf_Dular Heat & drought FL Rewatering 36h	FDR36	14064if	46
+14079if_37	Heat & drought	FL 36h Rewatering	Dular	Leaf_Dular Heat & drought FL Rewatering 36h	FDR36	14079if	37
+14088if_22	Heat & drought	FL 36h Rewatering	Dular	Leaf_Dular Heat & drought FL Rewatering 36h	FDR36	14088if	22
+14057if_24	Heat & drought	FL 60h Rewatering	Dular	Leaf_Dular Heat & drought FL Rewatering 60h	FDR60	14057if	24
+14064if_17	Heat & drought	FL 60h Rewatering	Dular	Leaf_Dular Heat & drought FL Rewatering 60h	FDR60	14064if	17
+14069if_58	Heat & drought	FL 60h Rewatering	Dular	Leaf_Dular Heat & drought FL Rewatering 60h	FDR60	14069if	58
+14084if_43	Heat & drought	FL 60h Rewatering	Dular	Leaf_Dular Heat & drought FL Rewatering 60h	FDR60	14084if	43
+14054if_8	Control	FL	Anjali	Leaf_Anjali Control FL_End of stress	FAC	14054if	8
+14057if_46	Control	FL	Anjali	Leaf_Anjali Control FL_End of stress	FAC	14057if	46
+14064if_39	Control	FL	Anjali	Leaf_Anjali Control FL_End of stress	FAC	14064if	39
+14079if_30	Control	FL	Anjali	Leaf_Anjali Control FL_End of stress	FAC	14079if	30
+14088if_15	Control	FL	Anjali	Leaf_Anjali Control FL_End of stress	FAC	14088if	15
+14050if_54	Heat & drought	FL Early stress	Anjali	Leaf_Anjali Heat & drought EGF_00d_Start of stress	FAES	14050if	54
+14057if_39	Heat & drought	FL Early stress	Anjali	Leaf_Anjali Heat & drought EGF_00d_Start of stress	FAES	14057if	39
+14064if_32	Heat & drought	FL Early stress	Anjali	Leaf_Anjali Heat & drought EGF_00d_Start of stress	FAES	14064if	32
+14079if_23	Heat & drought	FL Early stress	Anjali	Leaf_Anjali Heat & drought EGF_00d_Start of stress	FAES	14079if	23
+14088if_8	Heat & drought	FL Early stress	Anjali	Leaf_Anjali Heat & drought EGF_00d_Start of stress	FAES	14088if	8
+14050if_32	Heat & drought	FL Late stress	Anjali	Leaf_Anjali Heat & drought FL_End of stress	FALS	14050if	32
+14057if_17	Heat & drought	FL Late stress	Anjali	Leaf_Anjali Heat & drought FL_End of stress	FALS	14057if	17
+14064if_10	Heat & drought	FL Late stress	Anjali	Leaf_Anjali Heat & drought FL_End of stress	FALS	14064if	10
+14069if_51	Heat & drought	FL Late stress	Anjali	Leaf_Anjali Heat & drought FL_End of stress	FALS	14069if	51
+14084if_36	Heat & drought	FL Late stress	Anjali	Leaf_Anjali Heat & drought FL_End of stress	FALS	14084if	36
+14054if_42	Heat & drought	FL 12h Rewatering	Anjali	Leaf_Anjali Heat & drought FL Rewatering 12h	FAR12	14054if	42
+14061if_31	Heat & drought	FL 12h Rewatering	Anjali	Leaf_Anjali Heat & drought FL Rewatering 12h	FAR12	14061if	31
+14069if_24	Heat & drought	FL 12h Rewatering	Anjali	Leaf_Anjali Heat & drought FL Rewatering 12h	FAR12	14069if	24
+14084if_10	Heat & drought	FL 12h Rewatering	Anjali	Leaf_Anjali Heat & drought FL Rewatering 12h	FAR12	14084if	10
+14088if_49	Heat & drought	FL 12h Rewatering	Anjali	Leaf_Anjali Heat & drought FL Rewatering 12h	FAR12	14088if	49
+14054if_45	Heat & drought	FL 36h Rewatering	Anjali	Leaf_Anjali Heat & drought FL Rewatering 36h	FAR36	14054if	45
+14061if_34	Heat & drought	FL 36h Rewatering	Anjali	Leaf_Anjali Heat & drought FL Rewatering 36h	FAR36	14061if	34
+14069if_27	Heat & drought	FL 36h Rewatering	Anjali	Leaf_Anjali Heat & drought FL Rewatering 36h	FAR36	14069if	27
+14084if_13	Heat & drought	FL 36h Rewatering	Anjali	Leaf_Anjali Heat & drought FL Rewatering 36h	FAR36	14084if	13
+14088if_52	Heat & drought	FL 36h Rewatering	Anjali	Leaf_Anjali Heat & drought FL Rewatering 36h	FAR36	14088if	52
+14054if_16	Heat & drought	FL 60h Rewatering	Anjali	Leaf_Anjali Heat & drought FL Rewatering 60h	FAR60	14054if	16
+14057if_54	Heat & drought	FL 60h Rewatering	Anjali	Leaf_Anjali Heat & drought FL Rewatering 60h	FAR60	14057if	54
+14064if_47	Heat & drought	FL 60h Rewatering	Anjali	Leaf_Anjali Heat & drought FL Rewatering 60h	FAR60	14064if	47
+14079if_38	Heat & drought	FL 60h Rewatering	Anjali	Leaf_Anjali Heat & drought FL Rewatering 60h	FAR60	14079if	38
+14088if_23	Heat & drought	FL 60h Rewatering	Anjali	Leaf_Anjali Heat & drought FL Rewatering 60h	FAR60	14088if	23
+14050if_55	Control	EGF Late stress	N22	Leaf_N22 Control EGF_10d_End of stress	GNCLS	14050if	55
+14057if_40	Control	EGF Late stress	N22	Leaf_N22 Control EGF_10d_End of stress	GNCLS	14057if	40
+14064if_33	Control	EGF Late stress	N22	Leaf_N22 Control EGF_10d_End of stress	GNCLS	14064if	33
+14079if_24	Control	EGF Late stress	N22	Leaf_N22 Control EGF_10d_End of stress	GNCLS	14079if	24
+14088if_9	Control	EGF Late stress	N22	Leaf_N22 Control EGF_10d_End of stress	GNCLS	14088if	9
+14050if_27	Control	EGF 12h Rewatering	N22	Leaf_N22 Control EGF_12h_ Rewatering	GNC12	14050if	27
+14057if_12	Control	EGF 12h Rewatering	N22	Leaf_N22 Control EGF_12h_ Rewatering	GNC12	14057if	12
+14061if_53	Control	EGF 12h Rewatering	N22	Leaf_N22 Control EGF_12h_ Rewatering	GNC12	14061if	53
+14069if_46	Control	EGF 12h Rewatering	N22	Leaf_N22 Control EGF_12h_ Rewatering	GNC12	14069if	46
+14084if_31	Control	EGF 12h Rewatering	N22	Leaf_N22 Control EGF_12h_ Rewatering	GNC12	14084if	31
+14050if_33	Control	EGF 36h Rewatering	N22	Leaf_N22 Control EGF_36h_ Rewatering	GNC36	14050if	33
+14057if_18	Control	EGF 36h Rewatering	N22	Leaf_N22 Control EGF_36h_ Rewatering	GNC36	14057if	18
+14064if_11	Control	EGF 36h Rewatering	N22	Leaf_N22 Control EGF_36h_ Rewatering	GNC36	14064if	11
+14069if_52	Control	EGF 36h Rewatering	N22	Leaf_N22 Control EGF_36h_ Rewatering	GNC36	14069if	52
+14084if_37	Control	EGF 36h Rewatering	N22	Leaf_N22 Control EGF_36h_ Rewatering	GNC36	14084if	37
+14050if_59	Control	EGF 60h Rewatering	N22	Leaf_N22 Control EGF_60h_ Rewatering	GNC60	14050if	59
+14057if_44	Control	EGF 60h Rewatering	N22	Leaf_N22 Control EGF_60h_ Rewatering	GNC60	14057if	44
+14064if_37	Control	EGF 60h Rewatering	N22	Leaf_N22 Control EGF_60h_ Rewatering	GNC60	14064if	37
+14079if_28	Control	EGF 60h Rewatering	N22	Leaf_N22 Control EGF_60h_ Rewatering	GNC60	14079if	28
+14088if_13	Control	EGF 60h Rewatering	N22	Leaf_N22 Control EGF_60h_ Rewatering	GNC60	14088if	13
+14050if_26	Heat & drought	EGF Late stress	N22	Leaf_N22 Heat & drought EGF_10d_End of stress	GNLS	14050if	26
+14057if_11	Heat & drought	EGF Late stress	N22	Leaf_N22 Heat & drought EGF_10d_End of stress	GNLS	14057if	11
+14061if_52	Heat & drought	EGF Late stress	N22	Leaf_N22 Heat & drought EGF_10d_End of stress	GNLS	14061if	52
+14069if_45	Heat & drought	EGF Late stress	N22	Leaf_N22 Heat & drought EGF_10d_End of stress	GNLS	14069if	45
+14084if_30	Heat & drought	EGF Late stress	N22	Leaf_N22 Heat & drought EGF_10d_End of stress	GNLS	14084if	30
+14054if_35	Heat & drought	EGF 12h Rewatering	N22	Leaf_N22 Heat & drought EGF Rewatering 12h	GNR12	14054if	35
+14061if_24	Heat & drought	EGF 12h Rewatering	N22	Leaf_N22 Heat & drought EGF Rewatering 12h	GNR12	14061if	24
+14069if_17	Heat & drought	EGF 12h Rewatering	N22	Leaf_N22 Heat & drought EGF Rewatering 12h	GNR12	14069if	17
+14079if_57	Heat & drought	EGF 12h Rewatering	N22	Leaf_N22 Heat & drought EGF Rewatering 12h	GNR12	14079if	57
+14088if_42	Heat & drought	EGF 12h Rewatering	N22	Leaf_N22 Heat & drought EGF Rewatering 12h	GNR12	14088if	42
+14050if_34	Heat & drought	EGF 36h Rewatering	N22	Leaf_N22 Heat & drought EGF Rewatering 36h	GNR36	14050if	34
+14064if_12	Heat & drought	EGF 36h Rewatering	N22	Leaf_N22 Heat & drought EGF Rewatering 36h	GNR36	14064if	12
+14069if_53	Heat & drought	EGF 36h Rewatering	N22	Leaf_N22 Heat & drought EGF Rewatering 36h	GNR36	14069if	53
+14084if_38	Heat & drought	EGF 36h Rewatering	N22	Leaf_N22 Heat & drought EGF Rewatering 36h	GNR36	14084if	38
+14050if_30	Heat & drought	EGF 60h Rewatering	N22	Leaf_N22 Heat & drought EGF Rewatering 60h	GNR60	14050if	30
+14057if_15	Heat & drought	EGF 60h Rewatering	N22	Leaf_N22 Heat & drought EGF Rewatering 60h	GNR60	14057if	15
+14064if_8	Heat & drought	EGF 60h Rewatering	N22	Leaf_N22 Heat & drought EGF Rewatering 60h	GNR60	14064if	8
+14069if_49	Heat & drought	EGF 60h Rewatering	N22	Leaf_N22 Heat & drought EGF Rewatering 60h	GNR60	14069if	49
+14084if_34	Heat & drought	EGF 60h Rewatering	N22	Leaf_N22 Heat & drought EGF Rewatering 60h	GNR60	14084if	34
+14054if_32	Control	EGF Late stress	Dular	Leaf_Dular Control EGF_10d_End of stress	GDCLS	14054if	32
+14061if_21	Control	EGF Late stress	Dular	Leaf_Dular Control EGF_10d_End of stress	GDCLS	14061if	21
+14069if_14	Control	EGF Late stress	Dular	Leaf_Dular Control EGF_10d_End of stress	GDCLS	14069if	14
+14079if_54	Control	EGF Late stress	Dular	Leaf_Dular Control EGF_10d_End of stress	GDCLS	14079if	54
+14088if_39	Control	EGF Late stress	Dular	Leaf_Dular Control EGF_10d_End of stress	GDCLS	14088if	39
+14050if_57	Control	EGF 12h Rewatering	Dular	Leaf_Dular Control EGF_12h_ Rewatering	GDC12	14050if	57
+14057if_42	Control	EGF 12h Rewatering	Dular	Leaf_Dular Control EGF_12h_ Rewatering	GDC12	14057if	42
+14064if_35	Control	EGF 12h Rewatering	Dular	Leaf_Dular Control EGF_12h_ Rewatering	GDC12	14064if	35
+14079if_26	Control	EGF 12h Rewatering	Dular	Leaf_Dular Control EGF_12h_ Rewatering	GDC12	14079if	26
+14088if_11	Control	EGF 12h Rewatering	Dular	Leaf_Dular Control EGF_12h_ Rewatering	GDC12	14088if	11
+14054if_10	Control	EGF 36h Rewatering	Dular	Leaf_Dular Control EGF_36h_ Rewatering	GDC36	14054if	10
+14057if_48	Control	EGF 36h Rewatering	Dular	Leaf_Dular Control EGF_36h_ Rewatering	GDC36	14057if	48
+14064if_41	Control	EGF 36h Rewatering	Dular	Leaf_Dular Control EGF_36h_ Rewatering	GDC36	14064if	41
+14079if_32	Control	EGF 36h Rewatering	Dular	Leaf_Dular Control EGF_36h_ Rewatering	GDC36	14079if	32
+14088if_17	Control	EGF 36h Rewatering	Dular	Leaf_Dular Control EGF_36h_ Rewatering	GDC36	14088if	17
+14054if_36	Control	EGF 60h Rewatering	Dular	Leaf_Dular Control EGF_60h_ Rewatering	GDC60	14054if	36
+14061if_25	Control	EGF 60h Rewatering	Dular	Leaf_Dular Control EGF_60h_ Rewatering	GDC60	14061if	25
+14069if_18	Control	EGF 60h Rewatering	Dular	Leaf_Dular Control EGF_60h_ Rewatering	GDC60	14069if	18
+14079if_58	Control	EGF 60h Rewatering	Dular	Leaf_Dular Control EGF_60h_ Rewatering	GDC60	14079if	58
+14088if_43	Control	EGF 60h Rewatering	Dular	Leaf_Dular Control EGF_60h_ Rewatering	GDC60	14088if	43
+14050if_56	Heat & drought	EGF Late stress	Dular	Leaf_Dular Heat & drought EGF_10d_End of stress	GDLS	14050if	56
+14057if_41	Heat & drought	EGF Late stress	Dular	Leaf_Dular Heat & drought EGF_10d_End of stress	GDLS	14057if	41
+14064if_34	Heat & drought	EGF Late stress	Dular	Leaf_Dular Heat & drought EGF_10d_End of stress	GDLS	14064if	34
+14079if_25	Heat & drought	EGF Late stress	Dular	Leaf_Dular Heat & drought EGF_10d_End of stress	GDLS	14079if	25
+14088if_10	Heat & drought	EGF Late stress	Dular	Leaf_Dular Heat & drought EGF_10d_End of stress	GDLS	14088if	10
+14050if_28	Heat & drought	EGF 12h Rewatering	Dular	Leaf_Dular Heat & drought EGF Rewatering 12h	GDR12	14050if	28
+14057if_13	Heat & drought	EGF 12h Rewatering	Dular	Leaf_Dular Heat & drought EGF Rewatering 12h	GDR12	14057if	13
+14061if_54	Heat & drought	EGF 12h Rewatering	Dular	Leaf_Dular Heat & drought EGF Rewatering 12h	GDR12	14061if	54
+14084if_32	Heat & drought	EGF 12h Rewatering	Dular	Leaf_Dular Heat & drought EGF Rewatering 12h	GDR12	14084if	32
+14054if_41	Heat & drought	EGF 36h Rewatering	Dular	Leaf_Dular Heat & drought EGF Rewatering 36h	GDR36	14054if	41
+14061if_30	Heat & drought	EGF 36h Rewatering	Dular	Leaf_Dular Heat & drought EGF Rewatering 36h	GDR36	14061if	30
+14069if_23	Heat & drought	EGF 36h Rewatering	Dular	Leaf_Dular Heat & drought EGF Rewatering 36h	GDR36	14069if	23
+14084if_9	Heat & drought	EGF 36h Rewatering	Dular	Leaf_Dular Heat & drought EGF Rewatering 36h	GDR36	14084if	9
+14088if_48	Heat & drought	EGF 36h Rewatering	Dular	Leaf_Dular Heat & drought EGF Rewatering 36h	GDR36	14088if	48
+14050if_60	Heat & drought	EGF 60h Rewatering	Dular	Leaf_Dular Heat & drought EGF Rewatering 60h	GDR60	14050if	60
+14057if_45	Heat & drought	EGF 60h Rewatering	Dular	Leaf_Dular Heat & drought EGF Rewatering 60h	GDR60	14057if	45
+14064if_38	Heat & drought	EGF 60h Rewatering	Dular	Leaf_Dular Heat & drought EGF Rewatering 60h	GDR60	14064if	38
+14079if_29	Heat & drought	EGF 60h Rewatering	Dular	Leaf_Dular Heat & drought EGF Rewatering 60h	GDR60	14079if	29
+14088if_14	Heat & drought	EGF 60h Rewatering	Dular	Leaf_Dular Heat & drought EGF Rewatering 60h	GDR60	14088if	14
+14050if_25	Control	EGF Late stress	Anjali	Leaf_Anjali Control EGF_10d_End of stress	GACLS	14050if	25
+14057if_10	Control	EGF Late stress	Anjali	Leaf_Anjali Control EGF_10d_End of stress	GACLS	14057if	10
+14061if_51	Control	EGF Late stress	Anjali	Leaf_Anjali Control EGF_10d_End of stress	GACLS	14061if	51
+14069if_44	Control	EGF Late stress	Anjali	Leaf_Anjali Control EGF_10d_End of stress	GACLS	14069if	44
+14084if_29	Control	EGF Late stress	Anjali	Leaf_Anjali Control EGF_10d_End of stress	GACLS	14084if	29
+14054if_34	Control	EGF 12h Rewatering	Anjali	Leaf_Anjali Control EGF_12h_ Rewatering	GAC12	14054if	34
+14061if_23	Control	EGF 12h Rewatering	Anjali	Leaf_Anjali Control EGF_12h_ Rewatering	GAC12	14061if	23
+14069if_16	Control	EGF 12h Rewatering	Anjali	Leaf_Anjali Control EGF_12h_ Rewatering	GAC12	14069if	16
+14079if_56	Control	EGF 12h Rewatering	Anjali	Leaf_Anjali Control EGF_12h_ Rewatering	GAC12	14079if	56
+14088if_41	Control	EGF 12h Rewatering	Anjali	Leaf_Anjali Control EGF_12h_ Rewatering	GAC12	14088if	41
+14054if_40	Control	EGF 36h Rewatering	Anjali	Leaf_Anjali Control EGF_36h_ Rewatering	GAC36	14054if	40
+14061if_29	Control	EGF 36h Rewatering	Anjali	Leaf_Anjali Control EGF_36h_ Rewatering	GAC36	14061if	29
+14069if_22	Control	EGF 36h Rewatering	Anjali	Leaf_Anjali Control EGF_36h_ Rewatering	GAC36	14069if	22
+14084if_8	Control	EGF 36h Rewatering	Anjali	Leaf_Anjali Control EGF_36h_ Rewatering	GAC36	14084if	8
+14088if_47	Control	EGF 36h Rewatering	Anjali	Leaf_Anjali Control EGF_36h_ Rewatering	GAC36	14088if	47
+14050if_29	Control	EGF 60h Rewatering	Anjali	Leaf_Anjali Control EGF_60h_ Rewatering	GAC60	14050if	29
+14057if_14	Control	EGF 60h Rewatering	Anjali	Leaf_Anjali Control EGF_60h_ Rewatering	GAC60	14057if	14
+14061if_55	Control	EGF 60h Rewatering	Anjali	Leaf_Anjali Control EGF_60h_ Rewatering	GAC60	14061if	55
+14069if_48	Control	EGF 60h Rewatering	Anjali	Leaf_Anjali Control EGF_60h_ Rewatering	GAC60	14069if	48
+14084if_33	Control	EGF 60h Rewatering	Anjali	Leaf_Anjali Control EGF_60h_ Rewatering	GAC60	14084if	33
+14054if_33	Heat & drought	EGF Late stress	Anjali	Leaf_Anjali Heat & drought EGF_10d_End of stress	GALS	14054if	33
+14061if_22	Heat & drought	EGF Late stress	Anjali	Leaf_Anjali Heat & drought EGF_10d_End of stress	GALS	14061if	22
+14069if_15	Heat & drought	EGF Late stress	Anjali	Leaf_Anjali Heat & drought EGF_10d_End of stress	GALS	14069if	15
+14079if_55	Heat & drought	EGF Late stress	Anjali	Leaf_Anjali Heat & drought EGF_10d_End of stress	GALS	14079if	55
+14088if_40	Heat & drought	EGF Late stress	Anjali	Leaf_Anjali Heat & drought EGF_10d_End of stress	GALS	14088if	40
+14050if_58	Heat & drought	EGF 12h Rewatering	Anjali	Leaf_Anjali Heat & drought EGF Rewatering 12h	GAR12	14050if	58
+14057if_43	Heat & drought	EGF 12h Rewatering	Anjali	Leaf_Anjali Heat & drought EGF Rewatering 12h	GAR12	14057if	43
+14064if_36	Heat & drought	EGF 12h Rewatering	Anjali	Leaf_Anjali Heat & drought EGF Rewatering 12h	GAR12	14064if	36
+14079if_27	Heat & drought	EGF 12h Rewatering	Anjali	Leaf_Anjali Heat & drought EGF Rewatering 12h	GAR12	14079if	27
+14088if_12	Heat & drought	EGF 12h Rewatering	Anjali	Leaf_Anjali Heat & drought EGF Rewatering 12h	GAR12	14088if	12
+14054if_11	Heat & drought	EGF 36h Rewatering	Anjali	Leaf_Anjali Heat & drought EGF Rewatering 36h	GAR36	14054if	11
+14057if_49	Heat & drought	EGF 36h Rewatering	Anjali	Leaf_Anjali Heat & drought EGF Rewatering 36h	GAR36	14057if	49
+14064if_42	Heat & drought	EGF 36h Rewatering	Anjali	Leaf_Anjali Heat & drought EGF Rewatering 36h	GAR36	14064if	42
+14079if_33	Heat & drought	EGF 36h Rewatering	Anjali	Leaf_Anjali Heat & drought EGF Rewatering 36h	GAR36	14079if	33
+14088if_18	Heat & drought	EGF 36h Rewatering	Anjali	Leaf_Anjali Heat & drought EGF Rewatering 36h	GAR36	14088if	18
+14054if_37	Heat & drought	EGF 60h Rewatering	Anjali	Leaf_Anjali Heat & drought EGF Rewatering 60h	GAR60	14054if	37
+14061if_26	Heat & drought	EGF 60h Rewatering	Anjali	Leaf_Anjali Heat & drought EGF Rewatering 60h	GAR60	14061if	26
+14069if_19	Heat & drought	EGF 60h Rewatering	Anjali	Leaf_Anjali Heat & drought EGF Rewatering 60h	GAR60	14069if	19
+14079if_59	Heat & drought	EGF 60h Rewatering	Anjali	Leaf_Anjali Heat & drought EGF Rewatering 60h	GAR60	14079if	59
+14088if_56	Heat & drought	EGF 60h Rewatering	Anjali	Leaf_Anjali Heat & drought EGF Rewatering 60h	GAR60	14088if	56

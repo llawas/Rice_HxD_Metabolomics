@@ -1,0 +1,211 @@
+ID	Treatment	Timepoint	Cultivar	Description	Code	Batch	Sequence
+16007gf_30	Control	FL	N22	Leaf-Control-Flowering-N22	FNC	16007gf	30
+16010gf_30	Control	FL	N22	Leaf-Control-Flowering-N22	FNC	16010gf	30
+16013gf_20	Control	FL	N22	Leaf-Control-Flowering-N22	FNC	16013gf	20
+16018gf_15	Control	FL	N22	Leaf-Control-Flowering-N22	FNC	16018gf	15
+16020gf_15	Control	FL	N22	Leaf-Control-Flowering-N22	FNC	16020gf	15
+16007gf_21	Heat & drought	FL Early stress	N22	Leaf-Heat&Drought-EGFStartofstress-N22	FNES	16007gf	21
+16010gf_21	Heat & drought	FL Early stress	N22	Leaf-Heat&Drought-EGFStartofstress-N22	FNES	16010gf	21
+16013gf_71	Heat & drought	FL Early stress	N22	Leaf-Heat&Drought-EGFStartofstress-N22	FNES	16013gf	71
+16018gf_6	Heat & drought	FL Early stress	N22	Leaf-Heat&Drought-EGFStartofstress-N22	FNES	16018gf	6
+16018gf_51	Heat & drought	FL Early stress	N22	Leaf-Heat&Drought-EGFStartofstress-N22	FNES	16018gf	51
+16007gf_16	Heat & drought	FL Late stress	N22	Leaf-Heat&Drought-FLEndofstress-N22	FNLS	16007gf	16
+16010gf_16	Heat & drought	FL Late stress	N22	Leaf-Heat&Drought-FLEndofstress-N22	FNLS	16010gf	16
+16013gf_51	Heat & drought	FL Late stress	N22	Leaf-Heat&Drought-FLEndofstress-N22	FNLS	16013gf	51
+16013gf_66	Heat & drought	FL Late stress	N22	Leaf-Heat&Drought-FLEndofstress-N22	FNLS	16013gf	66
+16018gf_46	Heat & drought	FL Late stress	N22	Leaf-Heat&Drought-FLEndofstress-N22	FNLS	16018gf	46
+16007gf_47	Heat & drought	FL 12h Rewatering	N22	Leaf-Heat&Drought-FL12hRewatering-N22	FNR12	16007gf	47
+16010gf_47	Heat & drought	FL 12h Rewatering	N22	Leaf-Heat&Drought-FL12hRewatering-N22	FNR12	16010gf	47
+16013gf_37	Heat & drought	FL 12h Rewatering	N22	Leaf-Heat&Drought-FL12hRewatering-N22	FNR12	16013gf	37
+16018gf_32	Heat & drought	FL 12h Rewatering	N22	Leaf-Heat&Drought-FL12hRewatering-N22	FNR12	16018gf	32
+16020gf_32	Heat & drought	FL 12h Rewatering	N22	Leaf-Heat&Drought-FL12hRewatering-N22	FNR12	16020gf	32
+16007gf_33	Heat & drought	FL 36h Rewatering	N22	Leaf-Heat&Drought-FL36hRewatering-N22	FNR36	16007gf	33
+16010gf_33	Heat & drought	FL 36h Rewatering	N22	Leaf-Heat&Drought-FL36hRewatering-N22	FNR36	16010gf	33
+16013gf_23	Heat & drought	FL 36h Rewatering	N22	Leaf-Heat&Drought-FL36hRewatering-N22	FNR36	16013gf	23
+16018gf_18	Heat & drought	FL 36h Rewatering	N22	Leaf-Heat&Drought-FL36hRewatering-N22	FNR36	16018gf	18
+16020gf_18	Heat & drought	FL 36h Rewatering	N22	Leaf-Heat&Drought-FL36hRewatering-N22	FNR36	16020gf	18
+16007gf_19	Heat & drought	FL 60h Rewatering	N22	Leaf-Heat&Drought-FL60hRewatering-N22	FNR60	16007gf	19
+16010gf_19	Heat & drought	FL 60h Rewatering	N22	Leaf-Heat&Drought-FL60hRewatering-N22	FNR60	16010gf	19
+16013gf_54	Heat & drought	FL 60h Rewatering	N22	Leaf-Heat&Drought-FL60hRewatering-N22	FNR60	16013gf	54
+16013gf_69	Heat & drought	FL 60h Rewatering	N22	Leaf-Heat&Drought-FL60hRewatering-N22	FNR60	16013gf	69
+16018gf_49	Heat & drought	FL 60h Rewatering	N22	Leaf-Heat&Drought-FL60hRewatering-N22	FNR60	16018gf	49
+16007gf_45	Control	FL	Dular	Leaf-Control-Flowering-Dular	FDC	16007gf	45
+16010gf_45	Control	FL	Dular	Leaf-Control-Flowering-Dular	FDC	16010gf	45
+16013gf_35	Control	FL	Dular	Leaf-Control-Flowering-Dular	FDC	16013gf	35
+16018gf_30	Control	FL	Dular	Leaf-Control-Flowering-Dular	FDC	16018gf	30
+16020gf_30	Control	FL	Dular	Leaf-Control-Flowering-Dular	FDC	16020gf	30
+16007gf_36	Heat & drought	FL Early stress	Dular	Leaf-Heat&Drought-EGFStartofstress-Dular	FDES	16007gf	36
+16010gf_36	Heat & drought	FL Early stress	Dular	Leaf-Heat&Drought-EGFStartofstress-Dular	FDES	16010gf	36
+16013gf_26	Heat & drought	FL Early stress	Dular	Leaf-Heat&Drought-EGFStartofstress-Dular	FDES	16013gf	26
+16018gf_21	Heat & drought	FL Early stress	Dular	Leaf-Heat&Drought-EGFStartofstress-Dular	FDES	16018gf	21
+16020gf_21	Heat & drought	FL Early stress	Dular	Leaf-Heat&Drought-EGFStartofstress-Dular	FDES	16020gf	21
+16007gf_31	Heat & drought	FL Late stress	Dular	Leaf-Heat&Drought-FLEndofstress-Dular	FDLS	16007gf	31
+16010gf_31	Heat & drought	FL Late stress	Dular	Leaf-Heat&Drought-FLEndofstress-Dular	FDLS	16010gf	31
+16013gf_21	Heat & drought	FL Late stress	Dular	Leaf-Heat&Drought-FLEndofstress-Dular	FDLS	16013gf	21
+16018gf_16	Heat & drought	FL Late stress	Dular	Leaf-Heat&Drought-FLEndofstress-Dular	FDLS	16018gf	16
+16020gf_16	Heat & drought	FL Late stress	Dular	Leaf-Heat&Drought-FLEndofstress-Dular	FDLS	16020gf	16
+16007gf_17	Heat & drought	FL 12h Rewatering	Dular	Leaf-Heat&Drought-FL12hRewatering-Dular	FDR12	16007gf	17
+16010gf_17	Heat & drought	FL 12h Rewatering	Dular	Leaf-Heat&Drought-FL12hRewatering-Dular	FDR12	16010gf	17
+16013gf_67	Heat & drought	FL 12h Rewatering	Dular	Leaf-Heat&Drought-FL12hRewatering-Dular	FDR12	16013gf	67
+16013gf_52	Heat & drought	FL 12h Rewatering	Dular	Leaf-Heat&Drought-FL12hRewatering-Dular	FDR12	16013gf	52
+16018gf_47	Heat & drought	FL 12h Rewatering	Dular	Leaf-Heat&Drought-FL12hRewatering-Dular	FDR12	16018gf	47
+16007gf_48	Heat & drought	FL 36h Rewatering	Dular	Leaf-Heat&Drought-FL36hRewatering-Dular	FDR36	16007gf	48
+16010gf_48	Heat & drought	FL 36h Rewatering	Dular	Leaf-Heat&Drought-FL36hRewatering-Dular	FDR36	16010gf	48
+16013gf_38	Heat & drought	FL 36h Rewatering	Dular	Leaf-Heat&Drought-FL36hRewatering-Dular	FDR36	16013gf	38
+16018gf_33	Heat & drought	FL 36h Rewatering	Dular	Leaf-Heat&Drought-FL36hRewatering-Dular	FDR36	16018gf	33
+16020gf_33	Heat & drought	FL 36h Rewatering	Dular	Leaf-Heat&Drought-FL36hRewatering-Dular	FDR36	16020gf	33
+16007gf_34	Heat & drought	FL 60h Rewatering	Dular	Leaf-Heat&Drought-FL60hRewatering-Dular	FDR60	16007gf	34
+16010gf_34	Heat & drought	FL 60h Rewatering	Dular	Leaf-Heat&Drought-FL60hRewatering-Dular	FDR60	16010gf	34
+16013gf_24	Heat & drought	FL 60h Rewatering	Dular	Leaf-Heat&Drought-FL60hRewatering-Dular	FDR60	16013gf	24
+16018gf_19	Heat & drought	FL 60h Rewatering	Dular	Leaf-Heat&Drought-FL60hRewatering-Dular	FDR60	16018gf	19
+16020gf_19	Heat & drought	FL 60h Rewatering	Dular	Leaf-Heat&Drought-FL60hRewatering-Dular	FDR60	16020gf	19
+16007gf_15	Control	FL	Anjali	Leaf-Control-Flowering-Anjali	FAC	16007gf	15
+16010gf_15	Control	FL	Anjali	Leaf-Control-Flowering-Anjali	FAC	16010gf	15
+16010gf_60	Control	FL	Anjali	Leaf-Control-Flowering-Anjali	FAC	16010gf	60
+16013gf_50	Control	FL	Anjali	Leaf-Control-Flowering-Anjali	FAC	16013gf	50
+16018gf_45	Control	FL	Anjali	Leaf-Control-Flowering-Anjali	FAC	16018gf	45
+16007gf_7	Heat & drought	FL Early stress	Anjali	Leaf-Heat&Drought-EGFStartofstress-Anjali	FAES	16007gf	7
+16007gf_51	Heat & drought	FL Early stress	Anjali	Leaf-Heat&Drought-EGFStartofstress-Anjali	FAES	16007gf	51
+16010gf_51	Heat & drought	FL Early stress	Anjali	Leaf-Heat&Drought-EGFStartofstress-Anjali	FAES	16010gf	51
+16013gf_41	Heat & drought	FL Early stress	Anjali	Leaf-Heat&Drought-EGFStartofstress-Anjali	FAES	16013gf	41
+16018gf_36	Heat & drought	FL Early stress	Anjali	Leaf-Heat&Drought-EGFStartofstress-Anjali	FAES	16018gf	36
+16007gf_46	Heat & drought	FL Late stress	Anjali	Leaf-Heat&Drought-FLEndofstress-Anjali	FALS	16007gf	46
+16010gf_46	Heat & drought	FL Late stress	Anjali	Leaf-Heat&Drought-FLEndofstress-Anjali	FALS	16010gf	46
+16013gf_36	Heat & drought	FL Late stress	Anjali	Leaf-Heat&Drought-FLEndofstress-Anjali	FALS	16013gf	36
+16018gf_31	Heat & drought	FL Late stress	Anjali	Leaf-Heat&Drought-FLEndofstress-Anjali	FALS	16018gf	31
+16020gf_31	Heat & drought	FL Late stress	Anjali	Leaf-Heat&Drought-FLEndofstress-Anjali	FALS	16020gf	31
+16007gf_32	Heat & drought	FL 12h Rewatering	Anjali	Leaf-Heat&Drought-FL12hRewatering-Anjali	FAR12	16007gf	32
+16010gf_32	Heat & drought	FL 12h Rewatering	Anjali	Leaf-Heat&Drought-FL12hRewatering-Anjali	FAR12	16010gf	32
+16013gf_22	Heat & drought	FL 12h Rewatering	Anjali	Leaf-Heat&Drought-FL12hRewatering-Anjali	FAR12	16013gf	22
+16018gf_17	Heat & drought	FL 12h Rewatering	Anjali	Leaf-Heat&Drought-FL12hRewatering-Anjali	FAR12	16018gf	17
+16020gf_17	Heat & drought	FL 12h Rewatering	Anjali	Leaf-Heat&Drought-FL12hRewatering-Anjali	FAR12	16020gf	17
+16007gf_18	Heat & drought	FL 36h Rewatering	Anjali	Leaf-Heat&Drought-FL36hRewatering-Anjali	FAR36	16007gf	18
+16010gf_18	Heat & drought	FL 36h Rewatering	Anjali	Leaf-Heat&Drought-FL36hRewatering-Anjali	FAR36	16010gf	18
+16013gf_68	Heat & drought	FL 36h Rewatering	Anjali	Leaf-Heat&Drought-FL36hRewatering-Anjali	FAR36	16013gf	68
+16013gf_53	Heat & drought	FL 36h Rewatering	Anjali	Leaf-Heat&Drought-FL36hRewatering-Anjali	FAR36	16013gf	53
+16018gf_48	Heat & drought	FL 36h Rewatering	Anjali	Leaf-Heat&Drought-FL36hRewatering-Anjali	FAR36	16018gf	48
+16007gf_49	Heat & drought	FL 60h Rewatering	Anjali	Leaf-Heat&Drought-FL60hRewatering-Anjali	FAR60	16007gf	49
+16010gf_49	Heat & drought	FL 60h Rewatering	Anjali	Leaf-Heat&Drought-FL60hRewatering-Anjali	FAR60	16010gf	49
+16013gf_39	Heat & drought	FL 60h Rewatering	Anjali	Leaf-Heat&Drought-FL60hRewatering-Anjali	FAR60	16013gf	39
+16018gf_34	Heat & drought	FL 60h Rewatering	Anjali	Leaf-Heat&Drought-FL60hRewatering-Anjali	FAR60	16018gf	34
+16020gf_34	Heat & drought	FL 60h Rewatering	Anjali	Leaf-Heat&Drought-FL60hRewatering-Anjali	FAR60	16020gf	34
+16007gf_8	Control	EGF Late stress	N22	Leaf-Control-EGFEndofstress-N22	GNCLS	16007gf	8
+16007gf_52	Control	EGF Late stress	N22	Leaf-Control-EGFEndofstress-N22	GNCLS	16007gf	52
+16010gf_52	Control	EGF Late stress	N22	Leaf-Control-EGFEndofstress-N22	GNCLS	16010gf	52
+16013gf_42	Control	EGF Late stress	N22	Leaf-Control-EGFEndofstress-N22	GNCLS	16013gf	42
+16018gf_37	Control	EGF Late stress	N22	Leaf-Control-EGFEndofstress-N22	GNCLS	16018gf	37
+16007gf_24	Control	EGF 12h Rewatering	N22	Leaf-Control-EGF12hRewatering-N22	GNC12	16007gf	24
+16010gf_24	Control	EGF 12h Rewatering	N22	Leaf-Control-EGF12hRewatering-N22	GNC12	16010gf	24
+16013gf_74	Control	EGF 12h Rewatering	N22	Leaf-Control-EGF12hRewatering-N22	GNC12	16013gf	74
+16018gf_9	Control	EGF 12h Rewatering	N22	Leaf-Control-EGF12hRewatering-N22	GNC12	16018gf	9
+16018gf_54	Control	EGF 12h Rewatering	N22	Leaf-Control-EGF12hRewatering-N22	GNC12	16018gf	54
+16007gf_41	Control	EGF 36h Rewatering	N22	Leaf-Control-EGF36hRewatering-N22	GNC36	16007gf	41
+16010gf_41	Control	EGF 36h Rewatering	N22	Leaf-Control-EGF36hRewatering-N22	GNC36	16010gf	41
+16013gf_31	Control	EGF 36h Rewatering	N22	Leaf-Control-EGF36hRewatering-N22	GNC36	16013gf	31
+16018gf_26	Control	EGF 36h Rewatering	N22	Leaf-Control-EGF36hRewatering-N22	GNC36	16018gf	26
+16020gf_26	Control	EGF 36h Rewatering	N22	Leaf-Control-EGF36hRewatering-N22	GNC36	16020gf	26
+16007gf_13	Control	EGF 60h Rewatering	N22	Leaf-Control-EGF60hRewatering-N22	GNC60	16007gf	13
+16010gf_13	Control	EGF 60h Rewatering	N22	Leaf-Control-EGF60hRewatering-N22	GNC60	16010gf	13
+16010gf_58	Control	EGF 60h Rewatering	N22	Leaf-Control-EGF60hRewatering-N22	GNC60	16010gf	58
+16013gf_48	Control	EGF 60h Rewatering	N22	Leaf-Control-EGF60hRewatering-N22	GNC60	16013gf	48
+16018gf_43	Control	EGF 60h Rewatering	N22	Leaf-Control-EGF60hRewatering-N22	GNC60	16018gf	43
+16007gf_38	Heat & drought	EGF Late stress	N22	Leaf-Heat&Drought-EGFEndofstress-N22	GNLS	16007gf	38
+16010gf_38	Heat & drought	EGF Late stress	N22	Leaf-Heat&Drought-EGFEndofstress-N22	GNLS	16010gf	38
+16013gf_28	Heat & drought	EGF Late stress	N22	Leaf-Heat&Drought-EGFEndofstress-N22	GNLS	16013gf	28
+16018gf_23	Heat & drought	EGF Late stress	N22	Leaf-Heat&Drought-EGFEndofstress-N22	GNLS	16018gf	23
+16020gf_23	Heat & drought	EGF Late stress	N22	Leaf-Heat&Drought-EGFEndofstress-N22	GNLS	16020gf	23
+16007gf_55	Heat & drought	EGF 12h Rewatering	N22	Leaf-Heat&Drought-EGF12hRewatering-N22	GNR12	16007gf	55
+16010gf_55	Heat & drought	EGF 12h Rewatering	N22	Leaf-Heat&Drought-EGF12hRewatering-N22	GNR12	16010gf	55
+16013gf_45	Heat & drought	EGF 12h Rewatering	N22	Leaf-Heat&Drought-EGF12hRewatering-N22	GNR12	16013gf	45
+16018gf_40	Heat & drought	EGF 12h Rewatering	N22	Leaf-Heat&Drought-EGF12hRewatering-N22	GNR12	16018gf	40
+16020gf_35	Heat & drought	EGF 12h Rewatering	N22	Leaf-Heat&Drought-EGF12hRewatering-N22	GNR12	16020gf	35
+16007gf_27	Heat & drought	EGF 36h Rewatering	N22	Leaf-Heat&Drought-EGF36hRewatering-N22	GNR36	16007gf	27
+16010gf_27	Heat & drought	EGF 36h Rewatering	N22	Leaf-Heat&Drought-EGF36hRewatering-N22	GNR36	16010gf	27
+16013gf_17	Heat & drought	EGF 36h Rewatering	N22	Leaf-Heat&Drought-EGF36hRewatering-N22	GNR36	16013gf	17
+16018gf_12	Heat & drought	EGF 36h Rewatering	N22	Leaf-Heat&Drought-EGF36hRewatering-N22	GNR36	16018gf	12
+16020gf_12	Heat & drought	EGF 36h Rewatering	N22	Leaf-Heat&Drought-EGF36hRewatering-N22	GNR36	16020gf	12
+16007gf_44	Heat & drought	EGF 60h Rewatering	N22	Leaf-Heat&Drought-EGF60hRewatering-N22	GNR60	16007gf	44
+16010gf_44	Heat & drought	EGF 60h Rewatering	N22	Leaf-Heat&Drought-EGF60hRewatering-N22	GNR60	16010gf	44
+16013gf_34	Heat & drought	EGF 60h Rewatering	N22	Leaf-Heat&Drought-EGF60hRewatering-N22	GNR60	16013gf	34
+16018gf_29	Heat & drought	EGF 60h Rewatering	N22	Leaf-Heat&Drought-EGF60hRewatering-N22	GNR60	16018gf	29
+16020gf_29	Heat & drought	EGF 60h Rewatering	N22	Leaf-Heat&Drought-EGF60hRewatering-N22	GNR60	16020gf	29
+16007gf_22	Control	EGF Late stress	Dular	Leaf-Control-EGFEndofstress-Dular	GDCLS	16007gf	22
+16010gf_22	Control	EGF Late stress	Dular	Leaf-Control-EGFEndofstress-Dular	GDCLS	16010gf	22
+16013gf_72	Control	EGF Late stress	Dular	Leaf-Control-EGFEndofstress-Dular	GDCLS	16013gf	72
+16018gf_7	Control	EGF Late stress	Dular	Leaf-Control-EGFEndofstress-Dular	GDCLS	16018gf	7
+16018gf_52	Control	EGF Late stress	Dular	Leaf-Control-EGFEndofstress-Dular	GDCLS	16018gf	52
+16007gf_39	Control	EGF 12h Rewatering	Dular	Leaf-Control-EGF12hRewatering-Dular	GDC12	16007gf	39
+16010gf_39	Control	EGF 12h Rewatering	Dular	Leaf-Control-EGF12hRewatering-Dular	GDC12	16010gf	39
+16013gf_29	Control	EGF 12h Rewatering	Dular	Leaf-Control-EGF12hRewatering-Dular	GDC12	16013gf	29
+16018gf_24	Control	EGF 12h Rewatering	Dular	Leaf-Control-EGF12hRewatering-Dular	GDC12	16018gf	24
+16020gf_24	Control	EGF 12h Rewatering	Dular	Leaf-Control-EGF12hRewatering-Dular	GDC12	16020gf	24
+16007gf_11	Control	EGF 36h Rewatering	Dular	Leaf-Control-EGF36hRewatering-Dular	GDC36	16007gf	11
+16010gf_11	Control	EGF 36h Rewatering	Dular	Leaf-Control-EGF36hRewatering-Dular	GDC36	16010gf	11
+16010gf_56	Control	EGF 36h Rewatering	Dular	Leaf-Control-EGF36hRewatering-Dular	GDC36	16010gf	56
+16013gf_46	Control	EGF 36h Rewatering	Dular	Leaf-Control-EGF36hRewatering-Dular	GDC36	16013gf	46
+16018gf_41	Control	EGF 36h Rewatering	Dular	Leaf-Control-EGF36hRewatering-Dular	GDC36	16018gf	41
+16007gf_28	Control	EGF 60h Rewatering	Dular	Leaf-Control-EGF60hRewatering-Dular	GDC60	16007gf	28
+16010gf_28	Control	EGF 60h Rewatering	Dular	Leaf-Control-EGF60hRewatering-Dular	GDC60	16010gf	28
+16013gf_18	Control	EGF 60h Rewatering	Dular	Leaf-Control-EGF60hRewatering-Dular	GDC60	16013gf	18
+16018gf_13	Control	EGF 60h Rewatering	Dular	Leaf-Control-EGF60hRewatering-Dular	GDC60	16018gf	13
+16020gf_13	Control	EGF 60h Rewatering	Dular	Leaf-Control-EGF60hRewatering-Dular	GDC60	16020gf	13
+16007gf_9	Heat & drought	EGF Late stress	Dular	Leaf-Heat&Drought-EGFEndofstress-Dular	GDLS	16007gf	9
+16007gf_53	Heat & drought	EGF Late stress	Dular	Leaf-Heat&Drought-EGFEndofstress-Dular	GDLS	16007gf	53
+16010gf_53	Heat & drought	EGF Late stress	Dular	Leaf-Heat&Drought-EGFEndofstress-Dular	GDLS	16010gf	53
+16013gf_43	Heat & drought	EGF Late stress	Dular	Leaf-Heat&Drought-EGFEndofstress-Dular	GDLS	16013gf	43
+16018gf_38	Heat & drought	EGF Late stress	Dular	Leaf-Heat&Drought-EGFEndofstress-Dular	GDLS	16018gf	38
+16007gf_25	Heat & drought	EGF 12h Rewatering	Dular	Leaf-Heat&Drought-EGF12hRewatering-Dular	GDR12	16007gf	25
+16010gf_25	Heat & drought	EGF 12h Rewatering	Dular	Leaf-Heat&Drought-EGF12hRewatering-Dular	GDR12	16010gf	25
+16013gf_75	Heat & drought	EGF 12h Rewatering	Dular	Leaf-Heat&Drought-EGF12hRewatering-Dular	GDR12	16013gf	75
+16018gf_10	Heat & drought	EGF 12h Rewatering	Dular	Leaf-Heat&Drought-EGF12hRewatering-Dular	GDR12	16018gf	10
+16018gf_55	Heat & drought	EGF 12h Rewatering	Dular	Leaf-Heat&Drought-EGF12hRewatering-Dular	GDR12	16018gf	55
+16007gf_42	Heat & drought	EGF 36h Rewatering	Dular	Leaf-Heat&Drought-EGF36hRewatering-Dular	GDR36	16007gf	42
+16010gf_42	Heat & drought	EGF 36h Rewatering	Dular	Leaf-Heat&Drought-EGF36hRewatering-Dular	GDR36	16010gf	42
+16013gf_32	Heat & drought	EGF 36h Rewatering	Dular	Leaf-Heat&Drought-EGF36hRewatering-Dular	GDR36	16013gf	32
+16018gf_27	Heat & drought	EGF 36h Rewatering	Dular	Leaf-Heat&Drought-EGF36hRewatering-Dular	GDR36	16018gf	27
+16020gf_27	Heat & drought	EGF 36h Rewatering	Dular	Leaf-Heat&Drought-EGF36hRewatering-Dular	GDR36	16020gf	27
+16007gf_14	Heat & drought	EGF 60h Rewatering	Dular	Leaf-Heat&Drought-EGF60hRewatering-Dular	GDR60	16007gf	14
+16010gf_14	Heat & drought	EGF 60h Rewatering	Dular	Leaf-Heat&Drought-EGF60hRewatering-Dular	GDR60	16010gf	14
+16010gf_59	Heat & drought	EGF 60h Rewatering	Dular	Leaf-Heat&Drought-EGF60hRewatering-Dular	GDR60	16010gf	59
+16013gf_49	Heat & drought	EGF 60h Rewatering	Dular	Leaf-Heat&Drought-EGF60hRewatering-Dular	GDR60	16013gf	49
+16018gf_44	Heat & drought	EGF 60h Rewatering	Dular	Leaf-Heat&Drought-EGF60hRewatering-Dular	GDR60	16018gf	44
+16007gf_37	Control	EGF Late stress	Anjali	Leaf-Control-EGFEndofstress-Anjali	GACLS	16007gf	37
+16010gf_37	Control	EGF Late stress	Anjali	Leaf-Control-EGFEndofstress-Anjali	GACLS	16010gf	37
+16013gf_27	Control	EGF Late stress	Anjali	Leaf-Control-EGFEndofstress-Anjali	GACLS	16013gf	27
+16018gf_22	Control	EGF Late stress	Anjali	Leaf-Control-EGFEndofstress-Anjali	GACLS	16018gf	22
+16020gf_22	Control	EGF Late stress	Anjali	Leaf-Control-EGFEndofstress-Anjali	GACLS	16020gf	22
+16007gf_10	Control	EGF 12h Rewatering	Anjali	Leaf-Control-EGF12hRewatering-Anjali	GAC12	16007gf	10
+16007gf_54	Control	EGF 12h Rewatering	Anjali	Leaf-Control-EGF12hRewatering-Anjali	GAC12	16007gf	54
+16010gf_54	Control	EGF 12h Rewatering	Anjali	Leaf-Control-EGF12hRewatering-Anjali	GAC12	16010gf	54
+16013gf_44	Control	EGF 12h Rewatering	Anjali	Leaf-Control-EGF12hRewatering-Anjali	GAC12	16013gf	44
+16018gf_39	Control	EGF 12h Rewatering	Anjali	Leaf-Control-EGF12hRewatering-Anjali	GAC12	16018gf	39
+16007gf_26	Control	EGF 36h Rewatering	Anjali	Leaf-Control-EGF36hRewatering-Anjali	GAC36	16007gf	26
+16010gf_26	Control	EGF 36h Rewatering	Anjali	Leaf-Control-EGF36hRewatering-Anjali	GAC36	16010gf	26
+16013gf_16	Control	EGF 36h Rewatering	Anjali	Leaf-Control-EGF36hRewatering-Anjali	GAC36	16013gf	16
+16018gf_11	Control	EGF 36h Rewatering	Anjali	Leaf-Control-EGF36hRewatering-Anjali	GAC36	16018gf	11
+16020gf_11	Control	EGF 36h Rewatering	Anjali	Leaf-Control-EGF36hRewatering-Anjali	GAC36	16020gf	11
+16007gf_43	Control	EGF 60h Rewatering	Anjali	Leaf-Control-EGF60hRewatering-Anjali	GAC60	16007gf	43
+16010gf_43	Control	EGF 60h Rewatering	Anjali	Leaf-Control-EGF60hRewatering-Anjali	GAC60	16010gf	43
+16013gf_33	Control	EGF 60h Rewatering	Anjali	Leaf-Control-EGF60hRewatering-Anjali	GAC60	16013gf	33
+16018gf_28	Control	EGF 60h Rewatering	Anjali	Leaf-Control-EGF60hRewatering-Anjali	GAC60	16018gf	28
+16020gf_28	Control	EGF 60h Rewatering	Anjali	Leaf-Control-EGF60hRewatering-Anjali	GAC60	16020gf	28
+16007gf_23	Heat & drought	EGF Late stress	Anjali	Leaf-Heat&Drought-EGFEndofstress-Anjali	GALS	16007gf	23
+16010gf_23	Heat & drought	EGF Late stress	Anjali	Leaf-Heat&Drought-EGFEndofstress-Anjali	GALS	16010gf	23
+16013gf_73	Heat & drought	EGF Late stress	Anjali	Leaf-Heat&Drought-EGFEndofstress-Anjali	GALS	16013gf	73
+16018gf_8	Heat & drought	EGF Late stress	Anjali	Leaf-Heat&Drought-EGFEndofstress-Anjali	GALS	16018gf	8
+16018gf_53	Heat & drought	EGF Late stress	Anjali	Leaf-Heat&Drought-EGFEndofstress-Anjali	GALS	16018gf	53
+16007gf_40	Heat & drought	EGF 12h Rewatering	Anjali	Leaf-Heat&Drought-EGF12hRewatering-Anjali	GAR12	16007gf	40
+16010gf_40	Heat & drought	EGF 12h Rewatering	Anjali	Leaf-Heat&Drought-EGF12hRewatering-Anjali	GAR12	16010gf	40
+16013gf_30	Heat & drought	EGF 12h Rewatering	Anjali	Leaf-Heat&Drought-EGF12hRewatering-Anjali	GAR12	16013gf	30
+16018gf_25	Heat & drought	EGF 12h Rewatering	Anjali	Leaf-Heat&Drought-EGF12hRewatering-Anjali	GAR12	16018gf	25
+16020gf_25	Heat & drought	EGF 12h Rewatering	Anjali	Leaf-Heat&Drought-EGF12hRewatering-Anjali	GAR12	16020gf	25
+16007gf_12	Heat & drought	EGF 36h Rewatering	Anjali	Leaf-Heat&Drought-EGF36hRewatering-Anjali	GAR36	16007gf	12
+16010gf_12	Heat & drought	EGF 36h Rewatering	Anjali	Leaf-Heat&Drought-EGF36hRewatering-Anjali	GAR36	16010gf	12
+16010gf_57	Heat & drought	EGF 36h Rewatering	Anjali	Leaf-Heat&Drought-EGF36hRewatering-Anjali	GAR36	16010gf	57
+16013gf_47	Heat & drought	EGF 36h Rewatering	Anjali	Leaf-Heat&Drought-EGF36hRewatering-Anjali	GAR36	16013gf	47
+16018gf_42	Heat & drought	EGF 36h Rewatering	Anjali	Leaf-Heat&Drought-EGF36hRewatering-Anjali	GAR36	16018gf	42
+16007gf_29	Heat & drought	EGF 60h Rewatering	Anjali	Leaf-Heat&Drought-EGF60hRewatering-Anjali	GAR60	16007gf	29
+16010gf_29	Heat & drought	EGF 60h Rewatering	Anjali	Leaf-Heat&Drought-EGF60hRewatering-Anjali	GAR60	16010gf	29
+16013gf_19	Heat & drought	EGF 60h Rewatering	Anjali	Leaf-Heat&Drought-EGF60hRewatering-Anjali	GAR60	16013gf	19
+16018gf_14	Heat & drought	EGF 60h Rewatering	Anjali	Leaf-Heat&Drought-EGF60hRewatering-Anjali	GAR60	16018gf	14
+16020gf_14	Heat & drought	EGF 60h Rewatering	Anjali	Leaf-Heat&Drought-EGF60hRewatering-Anjali	GAR60	16020gf	14

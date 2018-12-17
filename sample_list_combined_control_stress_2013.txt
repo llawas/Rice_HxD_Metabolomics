@@ -1,0 +1,150 @@
+Year	Description	Batch ID	Stage	Tissue	Code
+2013	Leaf_N22 Control FL_End of stress	14054if_38	FL	Flag leaf	FLFNC
+2013	Leaf_N22 Control FL_End of stress	14061if_27	FL	Flag leaf	FLFNC
+2013	Leaf_N22 Control FL_End of stress	14069if_20	FL	Flag leaf	FLFNC
+2013	Leaf_N22 Control FL_End of stress	14079if_60	FL	Flag leaf	FLFNC
+2013	Leaf_N22 Control FL_End of stress	14088if_45	FL	Flag leaf	FLFNC
+2013	Leaf_N22 Heat & drought EGF_00d_Start of stress	14054if_31	FL	Flag leaf	FLFNES
+2013	Leaf_N22 Heat & drought EGF_00d_Start of stress	14061if_20	FL	Flag leaf	FLFNES
+2013	Leaf_N22 Heat & drought EGF_00d_Start of stress	14069if_13	FL	Flag leaf	FLFNES
+2013	Leaf_N22 Heat & drought EGF_00d_Start of stress	14079if_53	FL	Flag leaf	FLFNES
+2013	Leaf_N22 Heat & drought EGF_00d_Start of stress	14088if_38	FL	Flag leaf	FLFNES
+2013	Leaf_N22 Heat & drought FL_End of stress	14054if_9	FL	Flag leaf	FLFNLS
+2013	Leaf_N22 Heat & drought FL_End of stress	14057if_47	FL	Flag leaf	FLFNLS
+2013	Leaf_N22 Heat & drought FL_End of stress	14064if_40	FL	Flag leaf	FLFNLS
+2013	Leaf_N22 Heat & drought FL_End of stress	14079if_31	FL	Flag leaf	FLFNLS
+2013	Leaf_N22 Heat & drought FL_End of stress	14088if_16	FL	Flag leaf	FLFNLS
+2013	Leaf_Dular Control FL_End of stress	14050if_31	FL	Flag leaf	FLFDC
+2013	Leaf_Dular Control FL_End of stress	14057if_16	FL	Flag leaf	FLFDC
+2013	Leaf_Dular Control FL_End of stress	14064if_9	FL	Flag leaf	FLFDC
+2013	Leaf_Dular Control FL_End of stress	14069if_50	FL	Flag leaf	FLFDC
+2013	Leaf_Dular Control FL_End of stress	14084if_35	FL	Flag leaf	FLFDC
+2013	Leaf_Dular Heat & drought EGF_00d_Start of stress	14050if_24	FL	Flag leaf	FLFDES
+2013	Leaf_Dular Heat & drought EGF_00d_Start of stress	14057if_9	FL	Flag leaf	FLFDES
+2013	Leaf_Dular Heat & drought EGF_00d_Start of stress	14061if_50	FL	Flag leaf	FLFDES
+2013	Leaf_Dular Heat & drought EGF_00d_Start of stress	14069if_43	FL	Flag leaf	FLFDES
+2013	Leaf_Dular Heat & drought EGF_00d_Start of stress	14084if_28	FL	Flag leaf	FLFDES
+2013	Leaf_Dular Heat & drought FL_End of stress	14054if_39	FL	Flag leaf	FLFDLS
+2013	Leaf_Dular Heat & drought FL_End of stress	14061if_28	FL	Flag leaf	FLFDLS
+2013	Leaf_Dular Heat & drought FL_End of stress	14069if_21	FL	Flag leaf	FLFDLS
+2013	Leaf_Dular Heat & drought FL_End of stress	14084if_7	FL	Flag leaf	FLFDLS
+2013	Leaf_Dular Heat & drought FL_End of stress	14088if_46	FL	Flag leaf	FLFDLS
+2013	Leaf_Anjali Control FL_End of stress	14054if_8	FL	Flag leaf	FLFAC
+2013	Leaf_Anjali Control FL_End of stress	14057if_46	FL	Flag leaf	FLFAC
+2013	Leaf_Anjali Control FL_End of stress	14064if_39	FL	Flag leaf	FLFAC
+2013	Leaf_Anjali Control FL_End of stress	14079if_30	FL	Flag leaf	FLFAC
+2013	Leaf_Anjali Control FL_End of stress	14088if_15	FL	Flag leaf	FLFAC
+2013	Leaf_Anjali Heat & drought EGF_00d_Start of stress	14050if_54	FL	Flag leaf	FLFAES
+2013	Leaf_Anjali Heat & drought EGF_00d_Start of stress	14057if_39	FL	Flag leaf	FLFAES
+2013	Leaf_Anjali Heat & drought EGF_00d_Start of stress	14064if_32	FL	Flag leaf	FLFAES
+2013	Leaf_Anjali Heat & drought EGF_00d_Start of stress	14079if_23	FL	Flag leaf	FLFAES
+2013	Leaf_Anjali Heat & drought EGF_00d_Start of stress	14088if_8	FL	Flag leaf	FLFAES
+2013	Leaf_Anjali Heat & drought FL_End of stress	14050if_32	FL	Flag leaf	FLFALS
+2013	Leaf_Anjali Heat & drought FL_End of stress	14057if_17	FL	Flag leaf	FLFALS
+2013	Leaf_Anjali Heat & drought FL_End of stress	14064if_10	FL	Flag leaf	FLFALS
+2013	Leaf_Anjali Heat & drought FL_End of stress	14069if_51	FL	Flag leaf	FLFALS
+2013	Leaf_Anjali Heat & drought FL_End of stress	14084if_36	FL	Flag leaf	FLFALS
+2013	Leaf_N22 Control EGF_10d_End of stress	14050if_55	EGF	Flag leaf	FLENC
+2013	Leaf_N22 Control EGF_10d_End of stress	14057if_40	EGF	Flag leaf	FLENC
+2013	Leaf_N22 Control EGF_10d_End of stress	14064if_33	EGF	Flag leaf	FLENC
+2013	Leaf_N22 Control EGF_10d_End of stress	14079if_24	EGF	Flag leaf	FLENC
+2013	Leaf_N22 Control EGF_10d_End of stress	14088if_9	EGF	Flag leaf	FLENC
+2013	Leaf_N22 Heat & drought EGF_10d_End of stress	14050if_26	EGF	Flag leaf	FLENLS
+2013	Leaf_N22 Heat & drought EGF_10d_End of stress	14057if_11	EGF	Flag leaf	FLENLS
+2013	Leaf_N22 Heat & drought EGF_10d_End of stress	14061if_52	EGF	Flag leaf	FLENLS
+2013	Leaf_N22 Heat & drought EGF_10d_End of stress	14069if_45	EGF	Flag leaf	FLENLS
+2013	Leaf_N22 Heat & drought EGF_10d_End of stress	14084if_30	EGF	Flag leaf	FLENLS
+2013	Leaf_Dular Control EGF_10d_End of stress	14054if_32	EGF	Flag leaf	FLEDC
+2013	Leaf_Dular Control EGF_10d_End of stress	14061if_21	EGF	Flag leaf	FLEDC
+2013	Leaf_Dular Control EGF_10d_End of stress	14069if_14	EGF	Flag leaf	FLEDC
+2013	Leaf_Dular Control EGF_10d_End of stress	14079if_54	EGF	Flag leaf	FLEDC
+2013	Leaf_Dular Control EGF_10d_End of stress	14088if_39	EGF	Flag leaf	FLEDC
+2013	Leaf_Dular Heat & drought EGF_10d_End of stress	14050if_56	EGF	Flag leaf	FLEDLS
+2013	Leaf_Dular Heat & drought EGF_10d_End of stress	14057if_41	EGF	Flag leaf	FLEDLS
+2013	Leaf_Dular Heat & drought EGF_10d_End of stress	14064if_34	EGF	Flag leaf	FLEDLS
+2013	Leaf_Dular Heat & drought EGF_10d_End of stress	14079if_25	EGF	Flag leaf	FLEDLS
+2013	Leaf_Dular Heat & drought EGF_10d_End of stress	14088if_10	EGF	Flag leaf	FLEDLS
+2013	Leaf_Anjali Control EGF_10d_End of stress	14050if_25	EGF	Flag leaf	FLEAC
+2013	Leaf_Anjali Control EGF_10d_End of stress	14057if_10	EGF	Flag leaf	FLEAC
+2013	Leaf_Anjali Control EGF_10d_End of stress	14061if_51	EGF	Flag leaf	FLEAC
+2013	Leaf_Anjali Control EGF_10d_End of stress	14069if_44	EGF	Flag leaf	FLEAC
+2013	Leaf_Anjali Control EGF_10d_End of stress	14084if_29	EGF	Flag leaf	FLEAC
+2013	Leaf_Anjali Heat & drought EGF_10d_End of stress	14054if_33	EGF	Flag leaf	FLEALS
+2013	Leaf_Anjali Heat & drought EGF_10d_End of stress	14061if_22	EGF	Flag leaf	FLEALS
+2013	Leaf_Anjali Heat & drought EGF_10d_End of stress	14069if_15	EGF	Flag leaf	FLEALS
+2013	Leaf_Anjali Heat & drought EGF_10d_End of stress	14079if_55	EGF	Flag leaf	FLEALS
+2013	Leaf_Anjali Heat & drought EGF_10d_End of stress	14088if_40	EGF	Flag leaf	FLEALS
+2013	Spikelet_N22 Control FL_End of stress	14050if_18	FL	Spikelet	SFNC
+2013	Spikelet_N22 Control FL_End of stress	14054if_55	FL	Spikelet	SFNC
+2013	Spikelet_N22 Control FL_End of stress	14061if_44	FL	Spikelet	SFNC
+2013	Spikelet_N22 Control FL_End of stress	14069if_37	FL	Spikelet	SFNC
+2013	Spikelet_N22 Control FL_End of stress	14084if_23	FL	Spikelet	SFNC
+2013	Spikelet_N22 Heat & drought EGF_00d_Start of stress	14054if_14	FL	Spikelet	SFNES
+2013	Spikelet_N22 Heat & drought EGF_00d_Start of stress	14057if_52	FL	Spikelet	SFNES
+2013	Spikelet_N22 Heat & drought EGF_00d_Start of stress	14064if_45	FL	Spikelet	SFNES
+2013	Spikelet_N22 Heat & drought EGF_00d_Start of stress	14079if_36	FL	Spikelet	SFNES
+2013	Spikelet_N22 Heat & drought EGF_00d_Start of stress	14088if_21	FL	Spikelet	SFNES
+2013	Spikelet_N22 Heat & drought FL_End of stress	14054if_26	FL	Spikelet	SFNLS
+2013	Spikelet_N22 Heat & drought FL_End of stress	14061if_15	FL	Spikelet	SFNLS
+2013	Spikelet_N22 Heat & drought FL_End of stress	14064if_57	FL	Spikelet	SFNLS
+2013	Spikelet_N22 Heat & drought FL_End of stress	14079if_48	FL	Spikelet	SFNLS
+2013	Spikelet_N22 Heat & drought FL_End of stress	14088if_33	FL	Spikelet	SFNLS
+2013	Spikelet_Dular Control FL_End of stress	14050if_48	FL	Spikelet	SFDC
+2013	Spikelet_Dular Control FL_End of stress	14057if_33	FL	Spikelet	SFDC
+2013	Spikelet_Dular Control FL_End of stress	14064if_26	FL	Spikelet	SFDC
+2013	Spikelet_Dular Control FL_End of stress	14079if_17	FL	Spikelet	SFDC
+2013	Spikelet_Dular Control FL_End of stress	14084if_52	FL	Spikelet	SFDC
+2013	Spikelet_Dular Heat & drought EGF_00d_Start of stress	14054if_44	FL	Spikelet	SFDES
+2013	Spikelet_Dular Heat & drought EGF_00d_Start of stress	14061if_33	FL	Spikelet	SFDES
+2013	Spikelet_Dular Heat & drought EGF_00d_Start of stress	14069if_26	FL	Spikelet	SFDES
+2013	Spikelet_Dular Heat & drought EGF_00d_Start of stress	14084if_12	FL	Spikelet	SFDES
+2013	Spikelet_Dular Heat & drought EGF_00d_Start of stress	14088if_51	FL	Spikelet	SFDES
+2013	Spikelet_Dular Heat & drought FL_End of stress	14050if_19	FL	Spikelet	SFDLS
+2013	Spikelet_Dular Heat & drought FL_End of stress	14054if_56	FL	Spikelet	SFDLS
+2013	Spikelet_Dular Heat & drought FL_End of stress	14061if_45	FL	Spikelet	SFDLS
+2013	Spikelet_Dular Heat & drought FL_End of stress	14069if_38	FL	Spikelet	SFDLS
+2013	Spikelet_Anjali Control FL_End of stress	14054if_25	FL	Spikelet	SFAC
+2013	Spikelet_Anjali Control FL_End of stress	14061if_14	FL	Spikelet	SFAC
+2013	Spikelet_Anjali Control FL_End of stress	14064if_56	FL	Spikelet	SFAC
+2013	Spikelet_Anjali Control FL_End of stress	14079if_47	FL	Spikelet	SFAC
+2013	Spikelet_Anjali Control FL_End of stress	14088if_32	FL	Spikelet	SFAC
+2013	Spikelet_Anjali Heat & drought EGF_00d_Start of stress	14050if_37	FL	Spikelet	SFAES
+2013	Spikelet_Anjali Heat & drought EGF_00d_Start of stress	14057if_22	FL	Spikelet	SFAES
+2013	Spikelet_Anjali Heat & drought EGF_00d_Start of stress	14064if_15	FL	Spikelet	SFAES
+2013	Spikelet_Anjali Heat & drought EGF_00d_Start of stress	14069if_56	FL	Spikelet	SFAES
+2013	Spikelet_Anjali Heat & drought EGF_00d_Start of stress	14084if_41	FL	Spikelet	SFAES
+2013	Spikelet_Anjali Heat & drought FL_End of stress	14050if_49	FL	Spikelet	SFALS
+2013	Spikelet_Anjali Heat & drought FL_End of stress	14057if_34	FL	Spikelet	SFALS
+2013	Spikelet_Anjali Heat & drought FL_End of stress	14064if_27	FL	Spikelet	SFALS
+2013	Spikelet_Anjali Heat & drought FL_End of stress	14079if_18	FL	Spikelet	SFALS
+2013	Spikelet_Anjali Heat & drought FL_End of stress	14084if_53	FL	Spikelet	SFALS
+2013	Spikelet_N22 Control EGF_10d_End of stress	14054if_17	EGF	Developing seed	DSENC
+2013	Spikelet_N22 Control EGF_10d_End of stress	14057if_55	EGF	Developing seed	DSENC
+2013	Spikelet_N22 Control EGF_10d_End of stress	14064if_48	EGF	Developing seed	DSENC
+2013	Spikelet_N22 Control EGF_10d_End of stress	14079if_39	EGF	Developing seed	DSENC
+2013	Spikelet_N22 Control EGF_10d_End of stress	14088if_24	EGF	Developing seed	DSENC
+2013	Spikelet_N22 Heat & drought EGF_10d_End of stress	14050if_41	EGF	Developing seed	DSENLS
+2013	Spikelet_N22 Heat & drought EGF_10d_End of stress	14057if_26	EGF	Developing seed	DSENLS
+2013	Spikelet_N22 Heat & drought EGF_10d_End of stress	14064if_19	EGF	Developing seed	DSENLS
+2013	Spikelet_N22 Heat & drought EGF_10d_End of stress	14069if_60	EGF	Developing seed	DSENLS
+2013	Spikelet_N22 Heat & drought EGF_10d_End of stress	14084if_45	EGF	Developing seed	DSENLS
+2013	Spikelet_Dular Control EGF_10d_End of stress	14054if_47	EGF	Developing seed	DSEDC
+2013	Spikelet_Dular Control EGF_10d_End of stress	14061if_36	EGF	Developing seed	DSEDC
+2013	Spikelet_Dular Control EGF_10d_End of stress	14069if_29	EGF	Developing seed	DSEDC
+2013	Spikelet_Dular Control EGF_10d_End of stress	14084if_15	EGF	Developing seed	DSEDC
+2013	Spikelet_Dular Control EGF_10d_End of stress	14088if_54	EGF	Developing seed	DSEDC
+2013	Spikelet_Dular Heat & drought EGF_10d_End of stress	14054if_18	EGF	Developing seed	DSEDLS
+2013	Spikelet_Dular Heat & drought EGF_10d_End of stress	14061if_7	EGF	Developing seed	DSEDLS
+2013	Spikelet_Dular Heat & drought EGF_10d_End of stress	14064if_49	EGF	Developing seed	DSEDLS
+2013	Spikelet_Dular Heat & drought EGF_10d_End of stress	14079if_40	EGF	Developing seed	DSEDLS
+2013	Spikelet_Dular Heat & drought EGF_10d_End of stress	14088if_25	EGF	Developing seed	DSEDLS
+2013	Spikelet_Anjali Control EGF_10d_End of stress	14050if_40	EGF	Developing seed	DSEAC
+2013	Spikelet_Anjali Control EGF_10d_End of stress	14057if_25	EGF	Developing seed	DSEAC
+2013	Spikelet_Anjali Control EGF_10d_End of stress	14064if_18	EGF	Developing seed	DSEAC
+2013	Spikelet_Anjali Control EGF_10d_End of stress	14069if_59	EGF	Developing seed	DSEAC
+2013	Spikelet_Anjali Control EGF_10d_End of stress	14084if_44	EGF	Developing seed	DSEAC
+2013	Spikelet_Anjali Heat & drought EGF_10d_End of stress	14054if_48	EGF	Developing seed	DSEALS
+2013	Spikelet_Anjali Heat & drought EGF_10d_End of stress	14061if_37	EGF	Developing seed	DSEALS
+2013	Spikelet_Anjali Heat & drought EGF_10d_End of stress	14069if_30	EGF	Developing seed	DSEALS
+2013	Spikelet_Anjali Heat & drought EGF_10d_End of stress	14084if_16	EGF	Developing seed	DSEALS
+2013	Spikelet_Anjali Heat & drought EGF_10d_End of stress	14088if_55	EGF	Developing seed	DSEALS

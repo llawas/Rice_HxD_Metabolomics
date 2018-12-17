@@ -1,0 +1,121 @@
+ID	Treatment	Timepoint	Cultivar	Description	Code	Batch	Sequence
+14054if_17	Control	EGF Late stress	N22	Spikelet_N22 Control EGF_10d_End of stress	GNCLS	14054if	17
+14057if_55	Control	EGF Late stress	N22	Spikelet_N22 Control EGF_10d_End of stress	GNCLS	14057if	55
+14064if_48	Control	EGF Late stress	N22	Spikelet_N22 Control EGF_10d_End of stress	GNCLS	14064if	48
+14079if_39	Control	EGF Late stress	N22	Spikelet_N22 Control EGF_10d_End of stress	GNCLS	14079if	39
+14088if_24	Control	EGF Late stress	N22	Spikelet_N22 Control EGF_10d_End of stress	GNCLS	14088if	24
+14050if_42	Control	EGF 12h Rewatering	N22	Spikelet_N22 Control EGF_12h_ Rewatering	GNC12	14050if	42
+14057if_27	Control	EGF 12h Rewatering	N22	Spikelet_N22 Control EGF_12h_ Rewatering	GNC12	14057if	27
+14064if_20	Control	EGF 12h Rewatering	N22	Spikelet_N22 Control EGF_12h_ Rewatering	GNC12	14064if	20
+14079if_11	Control	EGF 12h Rewatering	N22	Spikelet_N22 Control EGF_12h_ Rewatering	GNC12	14079if	11
+14084if_46	Control	EGF 12h Rewatering	N22	Spikelet_N22 Control EGF_12h_ Rewatering	GNC12	14084if	46
+14050if_44	Control	EGF 36h Rewatering	N22	Spikelet_N22 Control EGF_36h_ Rewatering	GNC36	14050if	44
+14057if_29	Control	EGF 36h Rewatering	N22	Spikelet_N22 Control EGF_36h_ Rewatering	GNC36	14057if	29
+14064if_22	Control	EGF 36h Rewatering	N22	Spikelet_N22 Control EGF_36h_ Rewatering	GNC36	14064if	22
+14079if_13	Control	EGF 36h Rewatering	N22	Spikelet_N22 Control EGF_36h_ Rewatering	GNC36	14079if	13
+14084if_48	Control	EGF 36h Rewatering	N22	Spikelet_N22 Control EGF_36h_ Rewatering	GNC36	14084if	48
+14054if_23	Control	EGF 60h Rewatering	N22	Spikelet_N22 Control EGF_60h_ Rewatering	GNC60	14054if	23
+14061if_12	Control	EGF 60h Rewatering	N22	Spikelet_N22 Control EGF_60h_ Rewatering	GNC60	14061if	12
+14064if_54	Control	EGF 60h Rewatering	N22	Spikelet_N22 Control EGF_60h_ Rewatering	GNC60	14064if	54
+14079if_45	Control	EGF 60h Rewatering	N22	Spikelet_N22 Control EGF_60h_ Rewatering	GNC60	14079if	45
+14088if_30	Control	EGF 60h Rewatering	N22	Spikelet_N22 Control EGF_60h_ Rewatering	GNC60	14088if	30
+14050if_41	Heat & drought	EGF Late stress	N22	Spikelet_N22 Heat & drought EGF_10d_End of stress	GNLS	14050if	41
+14057if_26	Heat & drought	EGF Late stress	N22	Spikelet_N22 Heat & drought EGF_10d_End of stress	GNLS	14057if	26
+14064if_19	Heat & drought	EGF Late stress	N22	Spikelet_N22 Heat & drought EGF_10d_End of stress	GNLS	14064if	19
+14069if_60	Heat & drought	EGF Late stress	N22	Spikelet_N22 Heat & drought EGF_10d_End of stress	GNLS	14069if	60
+14084if_45	Heat & drought	EGF Late stress	N22	Spikelet_N22 Heat & drought EGF_10d_End of stress	GNLS	14084if	45
+14054if_20	Heat & drought	EGF 12h Rewatering	N22	Spikelet_N22 Heat & drought EGF Rewatering 12h	GNR12	14054if	20
+14061if_9	Heat & drought	EGF 12h Rewatering	N22	Spikelet_N22 Heat & drought EGF Rewatering 12h	GNR12	14061if	9
+14064if_51	Heat & drought	EGF 12h Rewatering	N22	Spikelet_N22 Heat & drought EGF Rewatering 12h	GNR12	14064if	51
+14079if_42	Heat & drought	EGF 12h Rewatering	N22	Spikelet_N22 Heat & drought EGF Rewatering 12h	GNR12	14079if	42
+14088if_27	Heat & drought	EGF 12h Rewatering	N22	Spikelet_N22 Heat & drought EGF Rewatering 12h	GNR12	14088if	27
+14050if_15	Heat & drought	EGF 36h Rewatering	N22	Spikelet_N22 Heat & drought EGF Rewatering 36h	GNR36	14050if	15
+14054if_52	Heat & drought	EGF 36h Rewatering	N22	Spikelet_N22 Heat & drought EGF Rewatering 36h	GNR36	14054if	52
+14061if_41	Heat & drought	EGF 36h Rewatering	N22	Spikelet_N22 Heat & drought EGF Rewatering 36h	GNR36	14061if	41
+14069if_34	Heat & drought	EGF 36h Rewatering	N22	Spikelet_N22 Heat & drought EGF Rewatering 36h	GNR36	14069if	34
+14084if_20	Heat & drought	EGF 36h Rewatering	N22	Spikelet_N22 Heat & drought EGF Rewatering 36h	GNR36	14084if	20
+14050if_47	Heat & drought	EGF 60h Rewatering	N22	Spikelet_N22 Heat & drought EGF Rewatering 60h	GNR60	14050if	47
+14057if_32	Heat & drought	EGF 60h Rewatering	N22	Spikelet_N22 Heat & drought EGF Rewatering 60h	GNR60	14057if	32
+14064if_25	Heat & drought	EGF 60h Rewatering	N22	Spikelet_N22 Heat & drought EGF Rewatering 60h	GNR60	14064if	25
+14079if_16	Heat & drought	EGF 60h Rewatering	N22	Spikelet_N22 Heat & drought EGF Rewatering 60h	GNR60	14079if	16
+14084if_51	Heat & drought	EGF 60h Rewatering	N22	Spikelet_N22 Heat & drought EGF Rewatering 60h	GNR60	14084if	51
+14054if_47	Control	EGF Late stress	Dular	Spikelet_Dular Control EGF_10d_End of stress	GDCLS	14054if	47
+14061if_36	Control	EGF Late stress	Dular	Spikelet_Dular Control EGF_10d_End of stress	GDCLS	14061if	36
+14069if_29	Control	EGF Late stress	Dular	Spikelet_Dular Control EGF_10d_End of stress	GDCLS	14069if	29
+14084if_15	Control	EGF Late stress	Dular	Spikelet_Dular Control EGF_10d_End of stress	GDCLS	14084if	15
+14088if_54	Control	EGF Late stress	Dular	Spikelet_Dular Control EGF_10d_End of stress	GDCLS	14088if	54
+14050if_12	Control	EGF 12h Rewatering	Dular	Spikelet_Dular Control EGF_12h_ Rewatering	GDC12	14050if	12
+14054if_49	Control	EGF 12h Rewatering	Dular	Spikelet_Dular Control EGF_12h_ Rewatering	GDC12	14054if	49
+14061if_38	Control	EGF 12h Rewatering	Dular	Spikelet_Dular Control EGF_12h_ Rewatering	GDC12	14061if	38
+14069if_31	Control	EGF 12h Rewatering	Dular	Spikelet_Dular Control EGF_12h_ Rewatering	GDC12	14069if	31
+14084if_17	Control	EGF 12h Rewatering	Dular	Spikelet_Dular Control EGF_12h_ Rewatering	GDC12	14084if	17
+14054if_21	Control	EGF 36h Rewatering	Dular	Spikelet_Dular Control EGF_36h_ Rewatering	GDC36	14054if	21
+14061if_10	Control	EGF 36h Rewatering	Dular	Spikelet_Dular Control EGF_36h_ Rewatering	GDC36	14061if	10
+14064if_52	Control	EGF 36h Rewatering	Dular	Spikelet_Dular Control EGF_36h_ Rewatering	GDC36	14064if	52
+14079if_43	Control	EGF 36h Rewatering	Dular	Spikelet_Dular Control EGF_36h_ Rewatering	GDC36	14079if	43
+14088if_28	Control	EGF 36h Rewatering	Dular	Spikelet_Dular Control EGF_36h_ Rewatering	GDC36	14088if	28
+14050if_16	Control	EGF 60h Rewatering	Dular	Spikelet_Dular Control EGF_60h_ Rewatering	GDC60	14050if	16
+14054if_53	Control	EGF 60h Rewatering	Dular	Spikelet_Dular Control EGF_60h_ Rewatering	GDC60	14054if	53
+14061if_42	Control	EGF 60h Rewatering	Dular	Spikelet_Dular Control EGF_60h_ Rewatering	GDC60	14061if	42
+14069if_35	Control	EGF 60h Rewatering	Dular	Spikelet_Dular Control EGF_60h_ Rewatering	GDC60	14069if	35
+14084if_21	Control	EGF 60h Rewatering	Dular	Spikelet_Dular Control EGF_60h_ Rewatering	GDC60	14084if	21
+14054if_18	Heat & drought	EGF Late stress	Dular	Spikelet_Dular Heat & drought EGF_10d_End of stress	GDLS	14054if	18
+14061if_7	Heat & drought	EGF Late stress	Dular	Spikelet_Dular Heat & drought EGF_10d_End of stress	GDLS	14061if	7
+14064if_49	Heat & drought	EGF Late stress	Dular	Spikelet_Dular Heat & drought EGF_10d_End of stress	GDLS	14064if	49
+14079if_40	Heat & drought	EGF Late stress	Dular	Spikelet_Dular Heat & drought EGF_10d_End of stress	GDLS	14079if	40
+14088if_25	Heat & drought	EGF Late stress	Dular	Spikelet_Dular Heat & drought EGF_10d_End of stress	GDLS	14088if	25
+14050if_13	Heat & drought	EGF 12h Rewatering	Dular	Spikelet_Dular Heat & drought EGF Rewatering 12h	GDR12	14050if	13
+14054if_50	Heat & drought	EGF 12h Rewatering	Dular	Spikelet_Dular Heat & drought EGF Rewatering 12h	GDR12	14054if	50
+14061if_39	Heat & drought	EGF 12h Rewatering	Dular	Spikelet_Dular Heat & drought EGF Rewatering 12h	GDR12	14061if	39
+14069if_32	Heat & drought	EGF 12h Rewatering	Dular	Spikelet_Dular Heat & drought EGF Rewatering 12h	GDR12	14069if	32
+14084if_18	Heat & drought	EGF 12h Rewatering	Dular	Spikelet_Dular Heat & drought EGF Rewatering 12h	GDR12	14084if	18
+14050if_45	Heat & drought	EGF 36h Rewatering	Dular	Spikelet_Dular Heat & drought EGF Rewatering 36h	GDR36	14050if	45
+14057if_30	Heat & drought	EGF 36h Rewatering	Dular	Spikelet_Dular Heat & drought EGF Rewatering 36h	GDR36	14057if	30
+14064if_23	Heat & drought	EGF 36h Rewatering	Dular	Spikelet_Dular Heat & drought EGF Rewatering 36h	GDR36	14064if	23
+14079if_14	Heat & drought	EGF 36h Rewatering	Dular	Spikelet_Dular Heat & drought EGF Rewatering 36h	GDR36	14079if	14
+14084if_49	Heat & drought	EGF 36h Rewatering	Dular	Spikelet_Dular Heat & drought EGF Rewatering 36h	GDR36	14084if	49
+14054if_24	Heat & drought	EGF 60h Rewatering	Dular	Spikelet_Dular Heat & drought EGF Rewatering 60h	GDR60	14054if	24
+14061if_13	Heat & drought	EGF 60h Rewatering	Dular	Spikelet_Dular Heat & drought EGF Rewatering 60h	GDR60	14061if	13
+14064if_55	Heat & drought	EGF 60h Rewatering	Dular	Spikelet_Dular Heat & drought EGF Rewatering 60h	GDR60	14064if	55
+14079if_46	Heat & drought	EGF 60h Rewatering	Dular	Spikelet_Dular Heat & drought EGF Rewatering 60h	GDR60	14079if	46
+14088if_31	Heat & drought	EGF 60h Rewatering	Dular	Spikelet_Dular Heat & drought EGF Rewatering 60h	GDR60	14088if	31
+14050if_40	Control	EGF Late stress	Anjali	Spikelet_Anjali Control EGF_10d_End of stress	GACLS	14050if	40
+14057if_25	Control	EGF Late stress	Anjali	Spikelet_Anjali Control EGF_10d_End of stress	GACLS	14057if	25
+14064if_18	Control	EGF Late stress	Anjali	Spikelet_Anjali Control EGF_10d_End of stress	GACLS	14064if	18
+14069if_59	Control	EGF Late stress	Anjali	Spikelet_Anjali Control EGF_10d_End of stress	GACLS	14069if	59
+14084if_44	Control	EGF Late stress	Anjali	Spikelet_Anjali Control EGF_10d_End of stress	GACLS	14084if	44
+14054if_19	Control	EGF 12h Rewatering	Anjali	Spikelet_Anjali Control EGF_12h_ Rewatering	GAC12	14054if	19
+14061if_8	Control	EGF 12h Rewatering	Anjali	Spikelet_Anjali Control EGF_12h_ Rewatering	GAC12	14061if	8
+14064if_50	Control	EGF 12h Rewatering	Anjali	Spikelet_Anjali Control EGF_12h_ Rewatering	GAC12	14064if	50
+14079if_41	Control	EGF 12h Rewatering	Anjali	Spikelet_Anjali Control EGF_12h_ Rewatering	GAC12	14079if	41
+14088if_26	Control	EGF 12h Rewatering	Anjali	Spikelet_Anjali Control EGF_12h_ Rewatering	GAC12	14088if	26
+14050if_14	Control	EGF 36h Rewatering	Anjali	Spikelet_Anjali Control EGF_36h_ Rewatering	GAC36	14050if	14
+14054if_51	Control	EGF 36h Rewatering	Anjali	Spikelet_Anjali Control EGF_36h_ Rewatering	GAC36	14054if	51
+14061if_40	Control	EGF 36h Rewatering	Anjali	Spikelet_Anjali Control EGF_36h_ Rewatering	GAC36	14061if	40
+14069if_33	Control	EGF 36h Rewatering	Anjali	Spikelet_Anjali Control EGF_36h_ Rewatering	GAC36	14069if	33
+14084if_19	Control	EGF 36h Rewatering	Anjali	Spikelet_Anjali Control EGF_36h_ Rewatering	GAC36	14084if	19
+14050if_46	Control	EGF 60h Rewatering	Anjali	Spikelet_Anjali Control EGF_60h_ Rewatering	GAC60	14050if	46
+14057if_31	Control	EGF 60h Rewatering	Anjali	Spikelet_Anjali Control EGF_60h_ Rewatering	GAC60	14057if	31
+14064if_24	Control	EGF 60h Rewatering	Anjali	Spikelet_Anjali Control EGF_60h_ Rewatering	GAC60	14064if	24
+14079if_15	Control	EGF 60h Rewatering	Anjali	Spikelet_Anjali Control EGF_60h_ Rewatering	GAC60	14079if	15
+14084if_50	Control	EGF 60h Rewatering	Anjali	Spikelet_Anjali Control EGF_60h_ Rewatering	GAC60	14084if	50
+14054if_48	Heat & drought	EGF Late stress	Anjali	Spikelet_Anjali Heat & drought EGF_10d_End of stress	GALS	14054if	48
+14061if_37	Heat & drought	EGF Late stress	Anjali	Spikelet_Anjali Heat & drought EGF_10d_End of stress	GALS	14061if	37
+14069if_30	Heat & drought	EGF Late stress	Anjali	Spikelet_Anjali Heat & drought EGF_10d_End of stress	GALS	14069if	30
+14084if_16	Heat & drought	EGF Late stress	Anjali	Spikelet_Anjali Heat & drought EGF_10d_End of stress	GALS	14084if	16
+14088if_55	Heat & drought	EGF Late stress	Anjali	Spikelet_Anjali Heat & drought EGF_10d_End of stress	GALS	14088if	55
+14050if_43	Heat & drought	EGF 12h Rewatering	Anjali	Spikelet_Anjali Heat & drought EGF Rewatering 12h	GAR12	14050if	43
+14057if_28	Heat & drought	EGF 12h Rewatering	Anjali	Spikelet_Anjali Heat & drought EGF Rewatering 12h	GAR12	14057if	28
+14064if_21	Heat & drought	EGF 12h Rewatering	Anjali	Spikelet_Anjali Heat & drought EGF Rewatering 12h	GAR12	14064if	21
+14079if_12	Heat & drought	EGF 12h Rewatering	Anjali	Spikelet_Anjali Heat & drought EGF Rewatering 12h	GAR12	14079if	12
+14084if_47	Heat & drought	EGF 12h Rewatering	Anjali	Spikelet_Anjali Heat & drought EGF Rewatering 12h	GAR12	14084if	47
+14054if_22	Heat & drought	EGF 36h Rewatering	Anjali	Spikelet_Anjali Heat & drought EGF Rewatering 36h	GAR36	14054if	22
+14061if_11	Heat & drought	EGF 36h Rewatering	Anjali	Spikelet_Anjali Heat & drought EGF Rewatering 36h	GAR36	14061if	11
+14064if_53	Heat & drought	EGF 36h Rewatering	Anjali	Spikelet_Anjali Heat & drought EGF Rewatering 36h	GAR36	14064if	53
+14079if_44	Heat & drought	EGF 36h Rewatering	Anjali	Spikelet_Anjali Heat & drought EGF Rewatering 36h	GAR36	14079if	44
+14088if_29	Heat & drought	EGF 36h Rewatering	Anjali	Spikelet_Anjali Heat & drought EGF Rewatering 36h	GAR36	14088if	29
+14050if_17	Heat & drought	EGF 60h Rewatering	Anjali	Spikelet_Anjali Heat & drought EGF Rewatering 60h	GAR60	14050if	17
+14054if_54	Heat & drought	EGF 60h Rewatering	Anjali	Spikelet_Anjali Heat & drought EGF Rewatering 60h	GAR60	14054if	54
+14061if_43	Heat & drought	EGF 60h Rewatering	Anjali	Spikelet_Anjali Heat & drought EGF Rewatering 60h	GAR60	14061if	43
+14069if_36	Heat & drought	EGF 60h Rewatering	Anjali	Spikelet_Anjali Heat & drought EGF Rewatering 60h	GAR60	14069if	36
+14084if_22	Heat & drought	EGF 60h Rewatering	Anjali	Spikelet_Anjali Heat & drought EGF Rewatering 60h	GAR60	14084if	22

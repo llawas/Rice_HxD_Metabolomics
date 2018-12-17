@@ -1,0 +1,151 @@
+Year	Description	Batch ID	Stage	Tissue	Code
+2015	Leaf-Control-Flowering-N22	16007gf_30	FL	Flag leaf	FLFNC
+2015	Leaf-Control-Flowering-N22	16010gf_30	FL	Flag leaf	FLFNC
+2015	Leaf-Control-Flowering-N22	16013gf_20	FL	Flag leaf	FLFNC
+2015	Leaf-Control-Flowering-N22	16018gf_15	FL	Flag leaf	FLFNC
+2015	Leaf-Control-Flowering-N22	16020gf_15	FL	Flag leaf	FLFNC
+2015	Leaf-Heat&Drought-EGFStartofstress-N22	16007gf_21	FL	Flag leaf	FLFNES
+2015	Leaf-Heat&Drought-EGFStartofstress-N22	16010gf_21	FL	Flag leaf	FLFNES
+2015	Leaf-Heat&Drought-EGFStartofstress-N22	16013gf_71	FL	Flag leaf	FLFNES
+2015	Leaf-Heat&Drought-EGFStartofstress-N22	16018gf_6	FL	Flag leaf	FLFNES
+2015	Leaf-Heat&Drought-EGFStartofstress-N22	16018gf_51	FL	Flag leaf	FLFNES
+2015	Leaf-Heat&Drought-FLEndofstress-N22	16007gf_16	FL	Flag leaf	FLFNLS
+2015	Leaf-Heat&Drought-FLEndofstress-N22	16010gf_16	FL	Flag leaf	FLFNLS
+2015	Leaf-Heat&Drought-FLEndofstress-N22	16013gf_51	FL	Flag leaf	FLFNLS
+2015	Leaf-Heat&Drought-FLEndofstress-N22	16013gf_66	FL	Flag leaf	FLFNLS
+2015	Leaf-Heat&Drought-FLEndofstress-N22	16018gf_46	FL	Flag leaf	FLFNLS
+2015	Leaf-Control-Flowering-Dular	16007gf_45	FL	Flag leaf	FLFDC
+2015	Leaf-Control-Flowering-Dular	16010gf_45	FL	Flag leaf	FLFDC
+2015	Leaf-Control-Flowering-Dular	16013gf_35	FL	Flag leaf	FLFDC
+2015	Leaf-Control-Flowering-Dular	16018gf_30	FL	Flag leaf	FLFDC
+2015	Leaf-Control-Flowering-Dular	16020gf_30	FL	Flag leaf	FLFDC
+2015	Leaf-Heat&Drought-EGFStartofstress-Dular	16007gf_36	FL	Flag leaf	FLFDES
+2015	Leaf-Heat&Drought-EGFStartofstress-Dular	16010gf_36	FL	Flag leaf	FLFDES
+2015	Leaf-Heat&Drought-EGFStartofstress-Dular	16013gf_26	FL	Flag leaf	FLFDES
+2015	Leaf-Heat&Drought-EGFStartofstress-Dular	16018gf_21	FL	Flag leaf	FLFDES
+2015	Leaf-Heat&Drought-EGFStartofstress-Dular	16020gf_21	FL	Flag leaf	FLFDES
+2015	Leaf-Heat&Drought-FLEndofstress-Dular	16007gf_31	FL	Flag leaf	FLFDLS
+2015	Leaf-Heat&Drought-FLEndofstress-Dular	16010gf_31	FL	Flag leaf	FLFDLS
+2015	Leaf-Heat&Drought-FLEndofstress-Dular	16013gf_21	FL	Flag leaf	FLFDLS
+2015	Leaf-Heat&Drought-FLEndofstress-Dular	16018gf_16	FL	Flag leaf	FLFDLS
+2015	Leaf-Heat&Drought-FLEndofstress-Dular	16020gf_16	FL	Flag leaf	FLFDLS
+2015	Leaf-Control-Flowering-Anjali	16007gf_15	FL	Flag leaf	FLFAC
+2015	Leaf-Control-Flowering-Anjali	16010gf_15	FL	Flag leaf	FLFAC
+2015	Leaf-Control-Flowering-Anjali	16010gf_60	FL	Flag leaf	FLFAC
+2015	Leaf-Control-Flowering-Anjali	16013gf_50	FL	Flag leaf	FLFAC
+2015	Leaf-Control-Flowering-Anjali	16018gf_45	FL	Flag leaf	FLFAC
+2015	Leaf-Heat&Drought-EGFStartofstress-Anjali	16007gf_7	FL	Flag leaf	FLFAES
+2015	Leaf-Heat&Drought-EGFStartofstress-Anjali	16007gf_51	FL	Flag leaf	FLFAES
+2015	Leaf-Heat&Drought-EGFStartofstress-Anjali	16010gf_51	FL	Flag leaf	FLFAES
+2015	Leaf-Heat&Drought-EGFStartofstress-Anjali	16013gf_41	FL	Flag leaf	FLFAES
+2015	Leaf-Heat&Drought-EGFStartofstress-Anjali	16018gf_36	FL	Flag leaf	FLFAES
+2015	Leaf-Heat&Drought-FLEndofstress-Anjali	16007gf_46	FL	Flag leaf	FLFALS
+2015	Leaf-Heat&Drought-FLEndofstress-Anjali	16010gf_46	FL	Flag leaf	FLFALS
+2015	Leaf-Heat&Drought-FLEndofstress-Anjali	16013gf_36	FL	Flag leaf	FLFALS
+2015	Leaf-Heat&Drought-FLEndofstress-Anjali	16018gf_31	FL	Flag leaf	FLFALS
+2015	Leaf-Heat&Drought-FLEndofstress-Anjali	16020gf_31	FL	Flag leaf	FLFALS
+2015	Leaf-Control-EGFEndofstress-N22	16007gf_8	EGF	Flag leaf	FLENC
+2015	Leaf-Control-EGFEndofstress-N22	16007gf_52	EGF	Flag leaf	FLENC
+2015	Leaf-Control-EGFEndofstress-N22	16010gf_52	EGF	Flag leaf	FLENC
+2015	Leaf-Control-EGFEndofstress-N22	16013gf_42	EGF	Flag leaf	FLENC
+2015	Leaf-Control-EGFEndofstress-N22	16018gf_37	EGF	Flag leaf	FLENC
+2015	Leaf-Heat&Drought-EGFEndofstress-N22	16007gf_38	EGF	Flag leaf	FLENLS
+2015	Leaf-Heat&Drought-EGFEndofstress-N22	16010gf_38	EGF	Flag leaf	FLENLS
+2015	Leaf-Heat&Drought-EGFEndofstress-N22	16013gf_28	EGF	Flag leaf	FLENLS
+2015	Leaf-Heat&Drought-EGFEndofstress-N22	16018gf_23	EGF	Flag leaf	FLENLS
+2015	Leaf-Heat&Drought-EGFEndofstress-N22	16020gf_23	EGF	Flag leaf	FLENLS
+2015	Leaf-Control-EGFEndofstress-Dular	16007gf_22	EGF	Flag leaf	FLEDC
+2015	Leaf-Control-EGFEndofstress-Dular	16010gf_22	EGF	Flag leaf	FLEDC
+2015	Leaf-Control-EGFEndofstress-Dular	16013gf_72	EGF	Flag leaf	FLEDC
+2015	Leaf-Control-EGFEndofstress-Dular	16018gf_7	EGF	Flag leaf	FLEDC
+2015	Leaf-Control-EGFEndofstress-Dular	16018gf_52	EGF	Flag leaf	FLEDC
+2015	Leaf-Heat&Drought-EGFEndofstress-Dular	16007gf_9	EGF	Flag leaf	FLEDLS
+2015	Leaf-Heat&Drought-EGFEndofstress-Dular	16007gf_53	EGF	Flag leaf	FLEDLS
+2015	Leaf-Heat&Drought-EGFEndofstress-Dular	16010gf_53	EGF	Flag leaf	FLEDLS
+2015	Leaf-Heat&Drought-EGFEndofstress-Dular	16013gf_43	EGF	Flag leaf	FLEDLS
+2015	Leaf-Heat&Drought-EGFEndofstress-Dular	16018gf_38	EGF	Flag leaf	FLEDLS
+2015	Leaf-Control-EGFEndofstress-Anjali	16007gf_37	EGF	Flag leaf	FLEAC
+2015	Leaf-Control-EGFEndofstress-Anjali	16010gf_37	EGF	Flag leaf	FLEAC
+2015	Leaf-Control-EGFEndofstress-Anjali	16013gf_27	EGF	Flag leaf	FLEAC
+2015	Leaf-Control-EGFEndofstress-Anjali	16018gf_22	EGF	Flag leaf	FLEAC
+2015	Leaf-Control-EGFEndofstress-Anjali	16020gf_22	EGF	Flag leaf	FLEAC
+2015	Leaf-Heat&Drought-EGFEndofstress-Anjali	16007gf_23	EGF	Flag leaf	FLEALS
+2015	Leaf-Heat&Drought-EGFEndofstress-Anjali	16010gf_23	EGF	Flag leaf	FLEALS
+2015	Leaf-Heat&Drought-EGFEndofstress-Anjali	16013gf_73	EGF	Flag leaf	FLEALS
+2015	Leaf-Heat&Drought-EGFEndofstress-Anjali	16018gf_8	EGF	Flag leaf	FLEALS
+2015	Leaf-Heat&Drought-EGFEndofstress-Anjali	16018gf_53	EGF	Flag leaf	FLEALS
+2015	Spikelet-Control-Flowering-N22	16031gf_2	FL	Spikelet	SFNC
+2015	Spikelet-Control-Flowering-N22	16032gf_41	FL	Spikelet	SFNC
+2015	Spikelet-Control-Flowering-N22	16034gf_33	FL	Spikelet	SFNC
+2015	Spikelet-Control-Flowering-N22	16037gf_33	FL	Spikelet	SFNC
+2015	Spikelet-Control-Flowering-N22	16040gf_23	FL	Spikelet	SFNC
+2015	Spikelet-Heat&Drought-EGFStartofstress-N22	16028gf_42	FL	Spikelet	SFNES
+2015	Spikelet-Heat&Drought-EGFStartofstress-N22	16032gf_32	FL	Spikelet	SFNES
+2015	Spikelet-Heat&Drought-EGFStartofstress-N22	16034gf_24	FL	Spikelet	SFNES
+2015	Spikelet-Heat&Drought-EGFStartofstress-N22	16037gf_24	FL	Spikelet	SFNES
+2015	Spikelet-Heat&Drought-EGFStartofstress-N22	16040gf_14	FL	Spikelet	SFNES
+2015	Spikelet-Heat&Drought-FLEndofstress-N22	16028gf_37	FL	Spikelet	SFNLS
+2015	Spikelet-Heat&Drought-FLEndofstress-N22	16032gf_27	FL	Spikelet	SFNLS
+2015	Spikelet-Heat&Drought-FLEndofstress-N22	16034gf_19	FL	Spikelet	SFNLS
+2015	Spikelet-Heat&Drought-FLEndofstress-N22	16037gf_19	FL	Spikelet	SFNLS
+2015	Spikelet-Heat&Drought-FLEndofstress-N22	16040gf_9	FL	Spikelet	SFNLS
+2015	Spikelet-Control-Flowering-Dular	16028gf_15	FL	Spikelet	SFDC
+2015	Spikelet-Control-Flowering-Dular	16032gf_11	FL	Spikelet	SFDC
+2015	Spikelet-Control-Flowering-Dular	16032gf_56	FL	Spikelet	SFDC
+2015	Spikelet-Control-Flowering-Dular	16034gf_74	FL	Spikelet	SFDC
+2015	Spikelet-Control-Flowering-Dular	16039gf_15	FL	Spikelet	SFDC
+2015	Spikelet-Heat&Drought-EGFStartofstress-Dular	16028gf_6	FL	Spikelet	SFDES
+2015	Spikelet-Heat&Drought-EGFStartofstress-Dular	16028gf_57	FL	Spikelet	SFDES
+2015	Spikelet-Heat&Drought-EGFStartofstress-Dular	16032gf_47	FL	Spikelet	SFDES
+2015	Spikelet-Heat&Drought-EGFStartofstress-Dular	16034gf_65	FL	Spikelet	SFDES
+2015	Spikelet-Heat&Drought-EGFStartofstress-Dular	16039gf_6	FL	Spikelet	SFDES
+2015	Spikelet-Heat&Drought-FLEndofstress-Dular	16031gf_3	FL	Spikelet	SFDLS
+2015	Spikelet-Heat&Drought-FLEndofstress-Dular	16032gf_42	FL	Spikelet	SFDLS
+2015	Spikelet-Heat&Drought-FLEndofstress-Dular	16034gf_34	FL	Spikelet	SFDLS
+2015	Spikelet-Heat&Drought-FLEndofstress-Dular	16037gf_34	FL	Spikelet	SFDLS
+2015	Spikelet-Heat&Drought-FLEndofstress-Dular	16040gf_24	FL	Spikelet	SFDLS
+2015	Spikelet-Control-Flowering-Anjali	16028gf_36	FL	Spikelet	SFAC
+2015	Spikelet-Control-Flowering-Anjali	16032gf_26	FL	Spikelet	SFAC
+2015	Spikelet-Control-Flowering-Anjali	16034gf_18	FL	Spikelet	SFAC
+2015	Spikelet-Control-Flowering-Anjali	16037gf_18	FL	Spikelet	SFAC
+2015	Spikelet-Control-Flowering-Anjali	16040gf_8	FL	Spikelet	SFAC
+2015	Spikelet-Heat&Drought-EGFStartofstress-Anjali	16028gf_21	FL	Spikelet	SFAES
+2015	Spikelet-Heat&Drought-EGFStartofstress-Anjali	16032gf_17	FL	Spikelet	SFAES
+2015	Spikelet-Heat&Drought-EGFStartofstress-Anjali	16034gf_9	FL	Spikelet	SFAES
+2015	Spikelet-Heat&Drought-EGFStartofstress-Anjali	16034gf_80	FL	Spikelet	SFAES
+2015	Spikelet-Heat&Drought-EGFStartofstress-Anjali	16039gf_21	FL	Spikelet	SFAES
+2015	Spikelet-Heat&Drought-FLEndofstress-Anjali	16028gf_16	FL	Spikelet	SFALS
+2015	Spikelet-Heat&Drought-FLEndofstress-Anjali	16032gf_12	FL	Spikelet	SFALS
+2015	Spikelet-Heat&Drought-FLEndofstress-Anjali	16032gf_57	FL	Spikelet	SFALS
+2015	Spikelet-Heat&Drought-FLEndofstress-Anjali	16034gf_75	FL	Spikelet	SFALS
+2015	Spikelet-Heat&Drought-FLEndofstress-Anjali	16039gf_16	FL	Spikelet	SFALS
+2015	Spikelet-Control-EGFEndofstress-N22	16028gf_22	EGF	Developing seed	DSENC
+2015	Spikelet-Control-EGFEndofstress-N22	16032gf_18	EGF	Developing seed	DSENC
+2015	Spikelet-Control-EGFEndofstress-N22	16034gf_10	EGF	Developing seed	DSENC
+2015	Spikelet-Control-EGFEndofstress-N22	16034gf_81	EGF	Developing seed	DSENC
+2015	Spikelet-Control-EGFEndofstress-N22	16037gf_55	EGF	Developing seed	DSENC
+2015	Spikelet-Heat&Drought-EGFEndofstress-N22	16028gf_8	EGF	Developing seed	DSENLS
+2015	Spikelet-Heat&Drought-EGFEndofstress-N22	16028gf_59	EGF	Developing seed	DSENLS
+2015	Spikelet-Heat&Drought-EGFEndofstress-N22	16032gf_49	EGF	Developing seed	DSENLS
+2015	Spikelet-Heat&Drought-EGFEndofstress-N22	16034gf_67	EGF	Developing seed	DSENLS
+2015	Spikelet-Heat&Drought-EGFEndofstress-N22	16039gf_8	EGF	Developing seed	DSENLS
+2015	Spikelet-Control-EGFEndofstress-Dular	16028gf_43	EGF	Developing seed	DSEDC
+2015	Spikelet-Control-EGFEndofstress-Dular	16032gf_33	EGF	Developing seed	DSEDC
+2015	Spikelet-Control-EGFEndofstress-Dular	16034gf_25	EGF	Developing seed	DSEDC
+2015	Spikelet-Control-EGFEndofstress-Dular	16037gf_25	EGF	Developing seed	DSEDC
+2015	Spikelet-Control-EGFEndofstress-Dular	16040gf_15	EGF	Developing seed	DSEDC
+2015	Spikelet-Heat&Drought-EGFEndofstress-Dular	16028gf_23	EGF	Developing seed	DSEDLS
+2015	Spikelet-Heat&Drought-EGFEndofstress-Dular	16032gf_19	EGF	Developing seed	DSEDLS
+2015	Spikelet-Heat&Drought-EGFEndofstress-Dular	16034gf_11	EGF	Developing seed	DSEDLS
+2015	Spikelet-Heat&Drought-EGFEndofstress-Dular	16037gf_11	EGF	Developing seed	DSEDLS
+2015	Spikelet-Heat&Drought-EGFEndofstress-Dular	16037gf_56	EGF	Developing seed	DSEDLS
+2015	Spikelet-Control-EGFEndofstress-Anjali	16028gf_7	EGF	Developing seed	DSEAC
+2015	Spikelet-Control-EGFEndofstress-Anjali	16028gf_58	EGF	Developing seed	DSEAC
+2015	Spikelet-Control-EGFEndofstress-Anjali	16032gf_48	EGF	Developing seed	DSEAC
+2015	Spikelet-Control-EGFEndofstress-Anjali	16034gf_66	EGF	Developing seed	DSEAC
+2015	Spikelet-Control-EGFEndofstress-Anjali	16039gf_7	EGF	Developing seed	DSEAC
+2015	Spikelet-Heat&Drought-EGFEndofstress-Anjali	16028gf_44	EGF	Developing seed	DSEALS
+2015	Spikelet-Heat&Drought-EGFEndofstress-Anjali	16032gf_34	EGF	Developing seed	DSEALS
+2015	Spikelet-Heat&Drought-EGFEndofstress-Anjali	16034gf_26	EGF	Developing seed	DSEALS
+2015	Spikelet-Heat&Drought-EGFEndofstress-Anjali	16037gf_26	EGF	Developing seed	DSEALS
+2015	Spikelet-Heat&Drought-EGFEndofstress-Anjali	16040gf_16	EGF	Developing seed	DSEALS

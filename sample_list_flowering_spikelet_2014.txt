@@ -1,0 +1,85 @@
+ID	Treatment	Timepoint	Cultivar	Description	Code	Batch	Sequence
+15238if_5	Control	FL	N22	Spikelet-Control -Flowering-N22	FNC	15238if	5
+15238if_27	Control	FL	N22	Spikelet-Control -Flowering-N22	FNC	15238if	27
+15264if_8	Control	FL	N22	Spikelet-Control -Flowering-N22	FNC	15264if	8
+15277if_26	Control	FL	N22	Spikelet-Control -Flowering-N22	FNC	15277if	26
+15291if_14	Control	FL	N22	Spikelet-Control -Flowering-N22	FNC	15291if	14
+15238if_11	Heat & drought	FL Early stress	N22	Spikelet-Heat & Drought-EGF Start of stress-N22	FNES	15238if	11
+15261if_20	Heat & drought	FL Early stress	N22	Spikelet-Heat & Drought-EGF Start of stress-N22	FNES	15261if	20
+15277if_35	Heat & drought	FL Early stress	N22	Spikelet-Heat & Drought-EGF Start of stress-N22	FNES	15277if	35
+15288if_16	Heat & drought	FL Early stress	N22	Spikelet-Heat & Drought-EGF Start of stress-N22	FNES	15288if	16
+15300if_8	Heat & drought	FL Early stress	N22	Spikelet-Heat & Drought-EGF Start of stress-N22	FNES	15300if	8
+15261if_10	Heat & drought	FL Late stress	N22	Spikelet-Heat & Drought-FL End of stress-N22	FNLS	15261if	10
+15273if_23	Heat & drought	FL Late stress	N22	Spikelet-Heat & Drought-FL End of stress-N22	FNLS	15273if	23
+15288if_6	Heat & drought	FL Late stress	N22	Spikelet-Heat & Drought-FL End of stress-N22	FNLS	15288if	6
+15223if_85	Heat & drought	FL 12h Rewatering	N22	Spikelet-Heat & Drought-FL 12h Rewatering-N22	FNR12	15223if	85
+15258if_11	Heat & drought	FL 12h Rewatering	N22	Spikelet-Heat & Drought-FL 12h Rewatering-N22	FNR12	15258if	11
+15267if_24	Heat & drought	FL 12h Rewatering	N22	Spikelet-Heat & Drought-FL 12h Rewatering-N22	FNR12	15267if	24
+15291if_18	Heat & drought	FL 12h Rewatering	N22	Spikelet-Heat & Drought-FL 12h Rewatering-N22	FNR12	15291if	18
+15223if_40	Heat & drought	FL 36h Rewatering	N22	Spikelet-Heat & Drought-FL 36h Rewatering-N22	FNR36	15223if	40
+15243if_6	Heat & drought	FL 36h Rewatering	N22	Spikelet-Heat & Drought-FL 36h Rewatering-N22	FNR36	15243if	6
+15288if_10	Heat & drought	FL 36h Rewatering	N22	Spikelet-Heat & Drought-FL 36h Rewatering-N22	FNR36	15288if	10
+15297if_29	Heat & drought	FL 36h Rewatering	N22	Spikelet-Heat & Drought-FL 36h Rewatering-N22	FNR36	15297if	29
+15267if_28	Heat & drought	FL 60h Rewatering	N22	Spikelet-Heat & Drought-FL 60h Rewatering-N22	FNR60	15267if	28
+15285if_9	Heat & drought	FL 60h Rewatering	N22	Spikelet-Heat & Drought-FL 60h Rewatering-N22	FNR60	15285if	9
+15294if_24	Heat & drought	FL 60h Rewatering	N22	Spikelet-Heat & Drought-FL 60h Rewatering-N22	FNR60	15294if	24
+15223if_82	Control	FL	Dular	Spikelet-Control -Flowering-Dular	FDC	15223if	82
+15261if_6	Control	FL	Dular	Spikelet-Control -Flowering-Dular	FDC	15261if	6
+15273if_19	Control	FL	Dular	Spikelet-Control -Flowering-Dular	FDC	15273if	19
+15285if_29	Control	FL	Dular	Spikelet-Control -Flowering-Dular	FDC	15285if	29
+15297if_21	Control	FL	Dular	Spikelet-Control -Flowering-Dular	FDC	15297if	21
+15223if_76	Heat & drought	FL Early stress	Dular	Spikelet-Heat & Drought-EGF Start of stress-Dular	FDES	15223if	76
+15258if_17	Heat & drought	FL Early stress	Dular	Spikelet-Heat & Drought-EGF Start of stress-Dular	FDES	15258if	17
+15267if_30	Heat & drought	FL Early stress	Dular	Spikelet-Heat & Drought-EGF Start of stress-Dular	FDES	15267if	30
+15285if_11	Heat & drought	FL Early stress	Dular	Spikelet-Heat & Drought-EGF Start of stress-Dular	FDES	15285if	11
+15294if_26	Heat & drought	FL Early stress	Dular	Spikelet-Heat & Drought-EGF Start of stress-Dular	FDES	15294if	26
+15223if_68	Heat & drought	FL Late stress	Dular	Spikelet-Heat & Drought-FL End of stress-Dular	FDLS	15223if	68
+15261if_8	Heat & drought	FL Late stress	Dular	Spikelet-Heat & Drought-FL End of stress-Dular	FDLS	15261if	8
+15273if_21	Heat & drought	FL Late stress	Dular	Spikelet-Heat & Drought-FL End of stress-Dular	FDLS	15273if	21
+15288if_4	Heat & drought	FL Late stress	Dular	Spikelet-Heat & Drought-FL End of stress-Dular	FDLS	15288if	4
+15297if_32	Heat & drought	FL Late stress	Dular	Spikelet-Heat & Drought-FL End of stress-Dular	FDLS	15297if	32
+15223if_22	Heat & drought	FL 12h Rewatering	Dular	Spikelet-Heat & Drought-FL 12h Rewatering-Dular	FDR12	15223if	22
+15238if_29	Heat & drought	FL 12h Rewatering	Dular	Spikelet-Heat & Drought-FL 12h Rewatering-Dular	FDR12	15238if	29
+15264if_10	Heat & drought	FL 12h Rewatering	Dular	Spikelet-Heat & Drought-FL 12h Rewatering-Dular	FDR12	15264if	10
+15277if_28	Heat & drought	FL 12h Rewatering	Dular	Spikelet-Heat & Drought-FL 12h Rewatering-Dular	FDR12	15277if	28
+15297if_25	Heat & drought	FL 12h Rewatering	Dular	Spikelet-Heat & Drought-FL 12h Rewatering-Dular	FDR12	15297if	25
+15226if_25	Heat & drought	FL 36h Rewatering	Dular	Spikelet-Heat & Drought-FL 36h Rewatering-Dular	FDR36	15226if	25
+15261if_12	Heat & drought	FL 36h Rewatering	Dular	Spikelet-Heat & Drought-FL 36h Rewatering-Dular	FDR36	15261if	12
+15273if_25	Heat & drought	FL 36h Rewatering	Dular	Spikelet-Heat & Drought-FL 36h Rewatering-Dular	FDR36	15273if	25
+15285if_31	Heat & drought	FL 36h Rewatering	Dular	Spikelet-Heat & Drought-FL 36h Rewatering-Dular	FDR36	15285if	31
+15294if_20	Heat & drought	FL 36h Rewatering	Dular	Spikelet-Heat & Drought-FL 36h Rewatering-Dular	FDR36	15294if	20
+15223if_87	Heat & drought	FL 60h Rewatering	Dular	Spikelet-Heat & Drought-FL 60h Rewatering-Dular	FDR60	15223if	87
+15258if_13	Heat & drought	FL 60h Rewatering	Dular	Spikelet-Heat & Drought-FL 60h Rewatering-Dular	FDR60	15258if	13
+15264if_14	Heat & drought	FL 60h Rewatering	Dular	Spikelet-Heat & Drought-FL 60h Rewatering-Dular	FDR60	15264if	14
+15280if_6	Heat & drought	FL 60h Rewatering	Dular	Spikelet-Heat & Drought-FL 60h Rewatering-Dular	FDR60	15280if	6
+15291if_20	Heat & drought	FL 60h Rewatering	Dular	Spikelet-Heat & Drought-FL 60h Rewatering-Dular	FDR60	15291if	20
+15223if_29	Control	FL	Anjali	Spikelet-Control -Flowering-Anjali	FAC	15223if	29
+15258if_7	Control	FL	Anjali	Spikelet-Control -Flowering-Anjali	FAC	15258if	7
+15267if_20	Control	FL	Anjali	Spikelet-Control -Flowering-Anjali	FAC	15267if	20
+15280if_28	Control	FL	Anjali	Spikelet-Control -Flowering-Anjali	FAC	15280if	28
+15294if_16	Control	FL	Anjali	Spikelet-Control -Flowering-Anjali	FAC	15294if	16
+15238if_9	Heat & drought	FL Early stress	Anjali	Spikelet-Heat & Drought-EGF Start of stress-Anjali	FAES	15238if	9
+15261if_18	Heat & drought	FL Early stress	Anjali	Spikelet-Heat & Drought-EGF Start of stress-Anjali	FAES	15261if	18
+15273if_34	Heat & drought	FL Early stress	Anjali	Spikelet-Heat & Drought-EGF Start of stress-Anjali	FAES	15273if	34
+15288if_14	Heat & drought	FL Early stress	Anjali	Spikelet-Heat & Drought-EGF Start of stress-Anjali	FAES	15288if	14
+15300if_6	Heat & drought	FL Early stress	Anjali	Spikelet-Heat & Drought-EGF Start of stress-Anjali	FAES	15300if	6
+15238if_7	Heat & drought	FL Late stress	Anjali	Spikelet-Heat & Drought-FL End of stress-Anjali	FALS	15238if	7
+15258if_9	Heat & drought	FL Late stress	Anjali	Spikelet-Heat & Drought-FL End of stress-Anjali	FALS	15258if	9
+15267if_22	Heat & drought	FL Late stress	Anjali	Spikelet-Heat & Drought-FL End of stress-Anjali	FALS	15267if	22
+15280if_30	Heat & drought	FL Late stress	Anjali	Spikelet-Heat & Drought-FL End of stress-Anjali	FALS	15280if	30
+15294if_18	Heat & drought	FL Late stress	Anjali	Spikelet-Heat & Drought-FL End of stress-Anjali	FALS	15294if	18
+15223if_37	Heat & drought	FL 12h Rewatering	Anjali	Spikelet-Heat & Drought-FL 12h Rewatering-Anjali	FAR12	15223if	37
+15238if_31	Heat & drought	FL 12h Rewatering	Anjali	Spikelet-Heat & Drought-FL 12h Rewatering-Anjali	FAR12	15238if	31
+15264if_12	Heat & drought	FL 12h Rewatering	Anjali	Spikelet-Heat & Drought-FL 12h Rewatering-Anjali	FAR12	15264if	12
+15277if_30	Heat & drought	FL 12h Rewatering	Anjali	Spikelet-Heat & Drought-FL 12h Rewatering-Anjali	FAR12	15277if	30
+15291if_16	Heat & drought	FL 12h Rewatering	Anjali	Spikelet-Heat & Drought-FL 12h Rewatering-Anjali	FAR12	15291if	16
+15226if_27	Heat & drought	FL 36h Rewatering	Anjali	Spikelet-Heat & Drought-FL 36h Rewatering-Anjali	FAR36	15226if	27
+15261if_14	Heat & drought	FL 36h Rewatering	Anjali	Spikelet-Heat & Drought-FL 36h Rewatering-Anjali	FAR36	15261if	14
+15273if_27	Heat & drought	FL 36h Rewatering	Anjali	Spikelet-Heat & Drought-FL 36h Rewatering-Anjali	FAR36	15273if	27
+15288if_8	Heat & drought	FL 36h Rewatering	Anjali	Spikelet-Heat & Drought-FL 36h Rewatering-Anjali	FAR36	15288if	8
+15297if_27	Heat & drought	FL 36h Rewatering	Anjali	Spikelet-Heat & Drought-FL 36h Rewatering-Anjali	FAR36	15297if	27
+15223if_74	Heat & drought	FL 60h Rewatering	Anjali	Spikelet-Heat & Drought-FL 60h Rewatering-Anjali	FAR60	15223if	74
+15258if_15	Heat & drought	FL 60h Rewatering	Anjali	Spikelet-Heat & Drought-FL 60h Rewatering-Anjali	FAR60	15258if	15
+15267if_26	Heat & drought	FL 60h Rewatering	Anjali	Spikelet-Heat & Drought-FL 60h Rewatering-Anjali	FAR60	15267if	26
+15285if_33	Heat & drought	FL 60h Rewatering	Anjali	Spikelet-Heat & Drought-FL 60h Rewatering-Anjali	FAR60	15285if	33
+15294if_22	Heat & drought	FL 60h Rewatering	Anjali	Spikelet-Heat & Drought-FL 60h Rewatering-Anjali	FAR60	15294if	22

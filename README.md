@@ -6,7 +6,9 @@ three-year field experiment;
 three rice cultivars with different tolerance to drought and heat stress used;
 combined drought and heat stress imposed at either the flowering or early grain-filling stage;
 flag leaves, flowering spikelets, and developing seeds collected from control and combined drought and heat stress treatments;
-samples collected at different time points (mild stress, late stress, 12 h after rewatering, 36 h after rewatering, 60 h after rewatering
+samples collected at different time points (mild stress, late stress, 12 h after rewatering, 36 h after rewatering, 60 h after rewatering)
+
+This workflow focuses on the analysis of samples collected during the stress period, although data pre-processing includes data of samples collected during the rewatering time points.
 
 Rice_GC-MS_Analysis_1: initial analysis deriving to the conclusion of doing organ-specific analyses AND analysis for flag leaf data set
 
